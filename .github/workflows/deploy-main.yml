@@ -67,8 +67,13 @@ jobs:
         if: ${{ env.project_publish_publish_pages_app == 'true' }}
         working-directory: "./client"
         run: |
-          npx astro build
-          pkill -P $$ node 2>/dev/null; true
+          setsid npx astro build &
+          BUILD_PID=$!
+          wait $BUILD_PID
+          BUILD_EXIT=$?
+          PGID=$(ps -o pgid= $BUILD_PID 2>/dev/null | tr -d ' ') || true
+          [ -n "$PGID" ] && kill -- -$PGID 2>/dev/null || true
+          exit $BUILD_EXIT
 
       - name: Upload Pages artifact
         if: ${{ env.project_publish_publish_pages_app == 'true' }}
