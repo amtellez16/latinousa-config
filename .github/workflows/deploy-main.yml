@@ -67,12 +67,10 @@ jobs:
         if: ${{ env.project_publish_publish_pages_app == 'true' }}
         working-directory: "./client"
         run: |
-          setsid npx astro build &
-          BUILD_PID=$!
-          wait $BUILD_PID
+          echo "Starting astro build..."
+          timeout --kill-after=10s 120s npx astro build
           BUILD_EXIT=$?
-          PGID=$(ps -o pgid= $BUILD_PID 2>/dev/null | tr -d ' ') || true
-          [ -n "$PGID" ] && kill -- -$PGID 2>/dev/null || true
+          echo "Build finished with exit code: $BUILD_EXIT"
           exit $BUILD_EXIT
 
       - name: Upload Pages artifact
