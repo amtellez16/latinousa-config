@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "f96931b2-abd1-42ff-9237-72840abcb330": {
+      "label": "Latino USA 01",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://archive.org/download/latino-usa-episode-01/Latino%20USA%20Episode%2001.mp3",
+      "duration": 1740
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Latino USA Episode 01",
+  "created_at": "2026-04-27T14:35:30.241Z",
+  "created_by": "amtellez16",
+  "updated_at": "2026-04-27T14:35:30.241Z",
+  "updated_by": "amtellez16"
+}
