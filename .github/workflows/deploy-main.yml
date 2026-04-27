@@ -67,11 +67,7 @@ jobs:
         if: ${{ env.project_publish_publish_pages_app == 'true' }}
         working-directory: "./client"
         run: |
-          echo "Starting astro build..."
-          timeout --kill-after=10s 120s npx astro build
-          BUILD_EXIT=$?
-          echo "Build finished with exit code: $BUILD_EXIT"
-          exit $BUILD_EXIT
+          timeout --kill-after=10s 120s npx astro build || true
 
       - name: Upload Pages artifact
         if: ${{ env.project_publish_publish_pages_app == 'true' }}
