@@ -5,8 +5,7 @@ name: Deploy main branch to GitHub Pages
 on:
   # Allows you to run this workflow manually from the Actions tab on GitHub.
   workflow_dispatch:
-    push:
-        branches: [main]
+
 # Allow this job to clone the repo and create a page deployment
 permissions:
   contents: write
@@ -16,6 +15,9 @@ permissions:
 jobs:
   checkout-build-deploy:
     runs-on: ubuntu-latest
+    concurrency:
+      group: deploy-to-main-group
+      cancel-in-progress: true
     steps:
       - name: Checkout project repository
         uses: actions/checkout@v4
@@ -66,16 +68,9 @@ jobs:
         run: npx tsx ./client/generate-iiif-3-manifests.ts -d './data' -u "https://${{ github.repository_owner }}.github.io/${{ env.project_project_slug}}" -s 'false'
 
       - name: Build Astro Client
-        if: ${{ env.project_publish_publish_pages_app == 'true' }}
-        working-directory: "./client"
-        run: |
-          timeout --kill-after=10s 120s npx astro build || true
-
-      - name: Upload Pages artifact
-        if: ${{ env.project_publish_publish_pages_app == 'true' }}
-        uses: actions/upload-pages-artifact@v3
+        uses: withastro/action@v4
         with:
-          path: "./client/dist"
+          path: "./client"
 
       - name: Deploy to GitHub Pages
         if: ${{ env.project_publish_publish_pages_app == 'true' }}
