@@ -60,7 +60,6 @@ jobs:
 
       # Only publish when directed
       - name: Setup Pages
-        if: ${{ env.project_publish_publish_pages_app == 'true' }}
         id: pages
         uses: actions/configure-pages@v5
 
@@ -76,7 +75,6 @@ jobs:
           path: "./client"
 
       - name: Deploy to GitHub Pages
-        if: ${{ env.project_publish_publish_pages_app == 'true' }}
         id: deployment
         uses: actions/deploy-pages@v4
         env:
