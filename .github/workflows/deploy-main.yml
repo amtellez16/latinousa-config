@@ -22,6 +22,9 @@ jobs:
       - name: Checkout project repository
         uses: actions/checkout@v4
 
+      - name: Reformat project.json
+        run: python3 -c "import json; f=open('./data/project.json','r+'); data=json.load(f); f.seek(0); json.dump(data,f,indent=4); f.truncate()"
+
       - name: Read in the project file
         id: project
         uses: antifree/json-to-variables@v1.0.1
