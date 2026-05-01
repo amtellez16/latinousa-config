@@ -8086,10 +8086,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Human Rights"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Translator"
         },
         {
@@ -8131,7 +8127,7 @@
       ]
     },
     "created_at": "2026-04-27T14:30:48.938Z",
-    "updated_at": "2026-05-01T04:42:29.667Z",
+    "updated_at": "2026-05-01T04:43:26.764Z",
     "generate_pages_site": true
   },
   "annotations": {},
