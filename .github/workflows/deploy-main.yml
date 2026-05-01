@@ -21,73 +21,58 @@ jobs:
     steps:
       - name: Checkout project repository
         uses: actions/checkout@v4
-
       - name: Reformat project.json
         run: python3 -c "import json; f=open('./data/project.json','r+'); data=json.load(f); f.seek(0); json.dump(data,f,indent=4); f.truncate()"
-
       - name: Read in the project file
         id: project
         uses: antifree/json-to-variables@v1.0.1
         with:
           filename: ./data/project.json
           prefix: project
-
       - name: Checkout project-client
         uses: actions/checkout@v4
         with:
           repository: AVAnnotate/project-client
           path: "./client"
           ref: ${{vars.PROJECT_CLIENT_BRANCH || 'main'}}
-
       - name: npm install
         working-directory: "./client"
         run: npm install
-
       - name: Ensure a content directory
         run: mkdir -p "./client/src/content"
-
       - name: Copy data to content directory
         run: cp -r ./data/* ./client/src/content
-
       - name: Make a project directory if it does not exist
         run: mkdir -p "./client/src/content/project"
-
       - name: Move project.json file to project directory
         run: mv ./client/src/content/project.json ./client/src/content/project/project.json
-
       - name: Copy any VTT files to public
         run: cp -r ./data/vtt/. ./client/public/
-
       # Only publish when directed
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
-
       - name: Make a manifests directory if it does not exist
         run: mkdir -p "./client/src/content/manifests"
-
       - name: Generate manifest
         run: npx tsx ./client/generate-iiif-3-manifests.ts -d './data' -u "https://${{ github.repository_owner }}.github.io/${{ env.project_project_slug}}" -s 'false'
-
       - name: Build Astro Client
         working-directory: "./client"
-        timeout-minutes: 35
+        timeout-minutes: 60
         run: |
           node --max-old-space-size=4096 ./node_modules/.bin/astro build
           echo "Build complete"
-
+          pkill -f "node" || true
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: "./client/dist"
-
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
         env:
           name: github-pages
           url: ${{ steps.deployment.outputs.page_url }}
-
       - name: Create an offline site
         if: ${{ env.project_publish_publish_static_site == 'true' }}
         env:
