@@ -71,9 +71,10 @@ jobs:
 
       - name: Build Astro Client
         working-directory: "./client"
-        run: npx astro build
-        env:
-          NODE_OPTIONS: "--max_old_space_size=4096"
+        timeout-minutes: 35
+        run: |
+          node --max-old-space-size=4096 ./node_modules/.bin/astro build
+          echo "Build complete"
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
