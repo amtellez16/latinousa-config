@@ -60,9 +60,14 @@ jobs:
         working-directory: "./client"
         timeout-minutes: 60
         run: |
-          node --max-old-space-size=4096 ./node_modules/.bin/astro build
-          echo "Build complete"
-          pkill -f "node" || true
+          node --max-old-space-size=4096 ./node_modules/.bin/astro build &
+          BUILD_PID=$!
+          wait $BUILD_PID
+          BUILD_EXIT=$?
+          echo "Build exited with code $BUILD_EXIT"
+          kill $(pgrep -f "astro") 2>/dev/null || true
+          kill $(pgrep -f "vite") 2>/dev/null || true
+          exit $BUILD_EXIT
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
