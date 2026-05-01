@@ -1,5 +1,4761 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Latino USA, the Radio Journal of News and Culture."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        }
+      ],
+      "uuid": "a92ff878-90f0-42ad-be13-aee34cb068d9"
+    },
+    {
+      "start_time": 6,
+      "end_time": 16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Opening Theme]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transition--Music--Opening theme",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "d2df7d9b-81e5-458b-ae3a-7b0f50614551"
+    },
+    {
+      "start_time": 17,
+      "end_time": 23,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm Maria Hinojosa, today on Latino USA. The debate about Hispanic Heritage Month."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        }
+      ],
+      "uuid": "38d49dcd-461f-4cf0-b7cd-b2d5e54c6cdc"
+    },
+    {
+      "start_time": 24,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It diminishes us. I believe that the contributions that we have to make and the ideas and the thoughts that we have to share have validity throughout the entire year."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delgado-Jane",
+          "category": "People"
+        }
+      ],
+      "uuid": "75065b0e-6243-4f8f-bc52-c90cfb1bbe3c"
+    },
+    {
+      "start_time": 35,
+      "end_time": 42,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Also, grading the administration on Latino appointments and more on the vote in Puerto Rico."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        }
+      ],
+      "uuid": "549f5334-f222-4dd6-b754-bf1f894310d6"
+    },
+    {
+      "start_time": 42,
+      "end_time": 54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Congress knows that there is an election taking place on November 14th in Puerto Rico, yet they have sent out any signal that they're recognizing that election in Puerto Rico in any way."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rivera-Jose 1936-",
+          "category": "People"
+        }
+      ],
+      "uuid": "db64f37c-f152-45ac-bc93-9ef45611450d"
+    },
+    {
+      "start_time": 55,
+      "end_time": 59,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That and more coming up on Latino USA but first, las noticias."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        }
+      ],
+      "uuid": "7a9fa767-d4d8-4289-8261-a36592fbf031"
+    },
+    {
+      "start_time": 60,
+      "end_time": 79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is news from Latino USA. I'm Maria Martin. The House of Representatives votes on NAFTA, the North American Free Trade Agreement on November 17th. And a newly formed bipartisan coalition has set out to convince Latinos and the Congressional Hispanic Caucus to support the controversial accord. Barrie Lynn Tapia reports."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "Congressional Hispanic Caucus",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Political parties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "1993-11-17",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "3b683109-90a4-46bd-8748-502f13e95d3e"
+    },
+    {
+      "start_time": 80,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "According to Democratic Congressman Bill Richardson of New Mexico, the coalition could play a crucial role in swaying Latino congressional leaders who oppose or are undecided on NAFTA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tapia-Barrie Lynn",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "Congressional Hispanic Caucus",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Political parties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "c1cfd88b-937d-4929-a210-8498c4e49f18"
+    },
+    {
+      "start_time": 90,
+      "end_time": 109,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The purpose is to show that NAFTA's a Hispanic issue, to show that we have a majority within the Congressional Hispanic Caucus of NAFTA. That's the goal. That bipartisan, we will get a majority of Hispanic members. Right now we're at about 50/50."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Richardson-Bill 1947-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "Congressional Hispanic Caucus",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Political parties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "5e3052ed-7a74-4e59-bec2-efa5ca65656a"
+    },
+    {
+      "start_time": 110,
+      "end_time": 121,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The congressman admitted the battle is an uphill one. Yet members of the coalition feel they may be able to turn the tide in favor of free trade in the next few weeks. For Latino USA, this is Barrie Lynn Tapia in Washington."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tapia-Barrie Lynn",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "Congressional Hispanic Caucus",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Political parties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "b3bbb339-d085-4491-91f4-439cf1f5920e"
+    },
+    {
+      "start_time": 122,
+      "end_time": 145,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "President Clinton interviewed on Spanish language television, said he favors continuing educational and public health services for the undocumented and also statehood for Puerto Rico if the islands residents vote that way on November 14th. The border patrol's continuing blockade of a 20-mile area of the Texas-Mexico border is drawing fire from Mexican officials. Louie Saenz reports from El Paso."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--El Paso",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexican-American Border Region",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Ortiz Rocha-Armando",
+          "category": "People"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Emigration and immigration--Government policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Border patrol agents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Borderlands",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "1993-11-14",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "74cd4d81-8d05-4ece-b493-1d687b1984c8"
+    },
+    {
+      "start_time": 146,
+      "end_time": 163,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mexican government officials say they understand that the United States has certain laws that their country must obey. However, they feel that Operation Blockade is doing more than deterring illegal immigration. The Mexican Council General in El Paso, Armando Ortiz Rocha says the blockade is not good for US Mexico relations."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Saenz-Louie",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--El Paso",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexican-American Border Region",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Ortiz Rocha-Armando",
+          "category": "People"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Emigration and immigration--Government policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Border patrol agents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Borderlands",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "fe19ea93-012b-4c9c-94c2-9290b745fcb3"
+    },
+    {
+      "start_time": 163,
+      "end_time": 172,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mexico cannot fully agree with the operation because we think that it creates a unnecessary climate of tension."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ortiz Rocha-Armando",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--El Paso",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexican-American Border Region",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Emigration and immigration--Government policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Border patrol agents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Borderlands",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "3afb11f6-bef9-4eae-96c3-19b7f47587a4"
+    },
+    {
+      "start_time": 172,
+      "end_time": 188,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He says Mexico is awaiting word from the American government as to how long Operation Blockade will continue. Border patrol officials say they are in daily contact with Washington and that operation Blockade will continue until further notice. For Latino USA, I'm Louie Saenz in El Paso, Texas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Saenz-Louie",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--El Paso",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexican-American Border Region",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Ortiz Rocha-Armando",
+          "category": "People"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Emigration and immigration--Government policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Border patrol agents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Borderlands",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "8bd9f5a9-6fd1-4d0d-9e87-10da48c18435"
+    },
+    {
+      "start_time": 189,
+      "end_time": 199,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The US Senate meanwhile has begun debate on a proposal by California Senator Barbara Boxer to allow the National Guard to patrol the border with Mexico. Isabel Alegria has more."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Boxer-Barbara",
+          "category": "People"
+        },
+        {
+          "tag": "National Guard of the United States",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Senate",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Border patrol agents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Armed forces",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexican-American Border Region",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Militarization",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Reader--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "a1f3ff5d-0857-4402-8729-747b00fb3e2e"
+    },
+    {
+      "start_time": 199,
+      "end_time": 231,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Senator Boxer's legislation would provide for at least $2 million to train members of the National Guard to assist the border patrol along the Border. Guard members would be asked to serve all or part of their obligatory 15 days per year at border stations. The plan has come under attack from Hispanic civil rights groups who say it would further militarize the border. Boxer's legislation is part of a larger defense spending bill that must still be approved by the full Senate and a joint committee of both the House and Senate. For Latino USA, Isabel Alegria in San Francisco."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Alegria-Isabel",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Boxer-Barbara",
+          "category": "People"
+        },
+        {
+          "tag": "National Guard of the United States",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Senate",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Border patrol agents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Armed forces",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexican-American Border Region",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Militarization",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Reader--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "efcd8bd5-dd2d-41f0-8990-ec8a332cc238"
+    },
+    {
+      "start_time": 231,
+      "end_time": 239,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And the House and the Senate have voted to restore $21 million to fund TV Martí whose broadcasts are aimed at Cuba."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "TV Marti",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Congress House",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Television broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Foreign policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Reader--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "c439f929-e016-44c4-ac74-b3a95e46bebe"
+    },
+    {
+      "start_time": 239,
+      "end_time": 259,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is news from Latino USA. FBI Director Louis Free has named agent Manuel Gonzalez to the high ranking post of assistant director of personnel at the FBI. Still a Latino coalition claims the Clinton administration has a poor record of appointing Hispanics. They're giving that record a grade of D, as Patricia Guadalupe reports."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "Freeh-Louis J",
+          "category": "People"
+        },
+        {
+          "tag": "Gonzalez-Manuel J",
+          "category": "People"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Federal Bureau of Investigation",
+          "category": "Organizations"
+        },
+        {
+          "tag": "National Hispanic Leadership Agenda",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Congress House",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Selection and appointment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "0473ed23-d08a-4311-af7f-cfd70d61190d"
+    },
+    {
+      "start_time": 260,
+      "end_time": 278,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Five months ago, the National Hispanic Leadership Agenda, a coalition of 28 Latino organizations gave President Clinton a C-minus for the lack of high-ranking Latinos in his administration. Frank Newton, the coalition's executive director says the president's record on Hispanic appointments continues to be unsatisfactory."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guadalupe-Patricia",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "Freeh-Louis J",
+          "category": "People"
+        },
+        {
+          "tag": "Gonzalez-Manuel J",
+          "category": "People"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Federal Bureau of Investigation",
+          "category": "Organizations"
+        },
+        {
+          "tag": "National Hispanic Leadership Agenda",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Congress House",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Selection and appointment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "4ab6cda4-1b1a-4851-b895-e01907b48d3f"
+    },
+    {
+      "start_time": 278,
+      "end_time": 306,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Since May, the administration has filled well over a hundred Senate confirmation slots. So even though they've added all kinds of people to the administration through their appointments, Latinos are moving backwards instead of moving forward. It's very discouraging and we get a lot of lip service. We get promises that trust us, it'll work out, you'll be happy with the results. And we've been waiting and we're not seeing any results, so.[Background, people speaking]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Newton-Frank--Frank Cota-Robles",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "Freeh-Louis J",
+          "category": "People"
+        },
+        {
+          "tag": "Gonzalez-Manuel J",
+          "category": "People"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Federal Bureau of Investigation",
+          "category": "Organizations"
+        },
+        {
+          "tag": "National Hispanic Leadership Agenda",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Congress House",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Selection and appointment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Natural Sounds--People talking",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "9438214d-714b-49e3-833a-02e308559e2d"
+    },
+    {
+      "start_time": 306,
+      "end_time": 317,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Newton hopes that the new report card will grab the attention of Latino leaders, many who say they are still unsatisfied with the numbers. One of them is Democratic Congressman Solomon Ortiz of Texas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guadalupe-Patricia",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "Freeh-Louis J",
+          "category": "People"
+        },
+        {
+          "tag": "Gonzalez-Manuel J",
+          "category": "People"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Federal Bureau of Investigation",
+          "category": "Organizations"
+        },
+        {
+          "tag": "National Hispanic Leadership Agenda",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Congress House",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Selection and appointment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "b3c1271e-363d-471d-aa43-408e12993e97"
+    },
+    {
+      "start_time": 317,
+      "end_time": 336,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Before long, we're going to be the largest growing minority in the United States, and if we are to integrate into this government system of ours,  into the different services' agencies, we need more Hispanic appointees and I think that we're dragging behind. The administration is dragging behind.[Background, music]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ortiz-Solomon P 1937-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "Freeh-Louis J",
+          "category": "People"
+        },
+        {
+          "tag": "Gonzalez-Manuel J",
+          "category": "People"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Federal Bureau of Investigation",
+          "category": "Organizations"
+        },
+        {
+          "tag": "National Hispanic Leadership Agenda",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Congress House",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Selection and appointment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "4e39087a-8c31-40e7-81de-e279bd8d20c0"
+    },
+    {
+      "start_time": 336,
+      "end_time": 358,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A spokesman for the Clinton administration said that although the President realizes the importance of the Hispanic community, he had to fulfill promises made to those he knew from his days as an Oxford student and as governor of Arkansas. The entire appointment process he added, takes a very long time, but some key Hispanic nominations would be made shortly. For Latino USA, I'm Patricia Guadalupe from Washington."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guadalupe-Patricia",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "Freeh-Louis J",
+          "category": "People"
+        },
+        {
+          "tag": "Gonzalez-Manuel J",
+          "category": "People"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Federal Bureau of Investigation",
+          "category": "Organizations"
+        },
+        {
+          "tag": "National Hispanic Leadership Agenda",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Congress House",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Selection and appointment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "669bb3bf-c0f5-496a-a834-651dd894084c"
+    },
+    {
+      "start_time": 359,
+      "end_time": 363,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "From Austin, Texas, I'm Maria Martin. You're listening to Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        }
+      ],
+      "uuid": "c56ad587-9962-4399-8974-9f24b4c19aab"
+    },
+    {
+      "start_time": 363,
+      "end_time": 377,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Two Janes--Los Lobos]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transition--Music--Rock",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "7870a771-d83c-4da9-a0c2-703dc6a3eb49"
+    },
+    {
+      "start_time": 378,
+      "end_time": 407,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm Maria Hinojosa. Nuyoricans, those who were born in Puerto Rico or whose parents were, went to the polls recently to cast their ballots in an unofficial plebiscite on the island's political status. Just as Puerto Ricans on the island will be doing in November. Nuyoricans voted on whether the island should be a state, gain independence or remain a US commonwealth. Mandalit del Barco was at several voting sites in New York City. She prepared this report."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Places"
+        },
+        {
+          "tag": "Self-determination-National--Puerto Rico",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Plebiscite",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "e277c2b3-7333-45c7-aedb-b3cfdf729ec6"
+    },
+    {
+      "start_time": 408,
+      "end_time": 429,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "With a little more than a third of the ballots counted, the majority of Nuyoricans, 59% voted for Puerto Rico to remain a commonwealth. 37% hope for Puerto Rico to become a state and only 4% want the island to be independent. At polling sites around the city, New York Puerto Ricans cast their ballots enthusiastically for the future of their choice."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barco-Mandalit del",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Places"
+        },
+        {
+          "tag": "Self-determination-National--Puerto Rico",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Plebiscite",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "367902e4-d356-4481-befa-43c01a794a47"
+    },
+    {
+      "start_time": 429,
+      "end_time": 434,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Arriba Puerto Rico! Arriba! Que se quede como esta."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 1"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Places"
+        },
+        {
+          "tag": "Self-determination-National--Puerto Rico",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Plebiscite",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Natural Sounds--Celebration",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "e39a5839-9fda-449a-9635-0c04c80927ce"
+    },
+    {
+      "start_time": 430,
+      "end_time": 431,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Viva Puerto Rico!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 2"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Places"
+        },
+        {
+          "tag": "Self-determination-National--Puerto Rico",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Plebiscite",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Natural Sounds--Celebration",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "412109b9-67e1-4233-9305-57fcfa70aaab"
+    },
+    {
+      "start_time": 432,
+      "end_time": 434,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Que viva Puerto Rico. [Laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 3"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Places"
+        },
+        {
+          "tag": "Self-determination-National--Puerto Rico",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Plebiscite",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Natural Sounds--Celebration",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "5ac5a20c-4c2c-40b9-a7c7-d54f0d478de8"
+    },
+    {
+      "start_time": 435,
+      "end_time": 443,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Organizers of New York's Plebiscite were pleased with the turnout. It seems nearly 32,000 Puerto Rican New Yorkers were eager to have their voices heard."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barco-Mandalit del",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Places"
+        },
+        {
+          "tag": "Self-determination-National--Puerto Rico",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Plebiscite",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "d7976d9d-8b75-4769-9670-48c7cf0ce186"
+    },
+    {
+      "start_time": 444,
+      "end_time": 455,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I decided to vote because I'm a Puerto Rican and I love my island and I think that the way it is, it's beautiful the way it is."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 4"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Places"
+        },
+        {
+          "tag": "Self-determination-National--Puerto Rico",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Plebiscite",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "3902df6c-fa51-47d1-84b2-3b581a85b5a8"
+    },
+    {
+      "start_time": 456,
+      "end_time": 471,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I feel good to vote for my country because we have to do something about it. I'm very proud of our people and to stay over here in New York and come and go- you know, like we used to do."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 5"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Places"
+        },
+        {
+          "tag": "Self-determination-National--Puerto Rico",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Plebiscite",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "ac481877-1049-4407-85b0-582568d000b6"
+    },
+    {
+      "start_time": 472,
+      "end_time": 476,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There's some people in Puerto Rico who say that the people in New York shouldn't be voting."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barco-Mandalit del",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Places"
+        },
+        {
+          "tag": "Self-determination-National--Puerto Rico",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Plebiscite",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "202997d9-6f7f-404d-902a-84af0a0b7c04"
+    },
+    {
+      "start_time": 476,
+      "end_time": 491,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I disagree with them, a 100%. Because I was born there and I feel for both countries. So it is something that I just feel good about."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 6"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Places"
+        },
+        {
+          "tag": "Self-determination-National--Puerto Rico",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Plebiscite",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "affb827b-c134-4158-8d9f-254c09a104df"
+    },
+    {
+      "start_time": 492,
+      "end_time": 503,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm voting for Puerto Rico. That's my country, that's my island. I need to vote, not just for me, for all the Puerto Rican. Tu naciste en Puerto Rico."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 7"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Places"
+        },
+        {
+          "tag": "Self-determination-National--Puerto Rico",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Plebiscite",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "85a615ce-e8c2-4bbe-bbf3-239456e08aee"
+    },
+    {
+      "start_time": 503,
+      "end_time": 505,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo nací en Puerto Rico, en Lares."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 8"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Places"
+        },
+        {
+          "tag": "Self-determination-National--Puerto Rico",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Plebiscite",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "374a2342-57ba-41f0-bd52-1cbe07dda90f"
+    },
+    {
+      "start_time": 505,
+      "end_time": 509,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En Lares, pues tu eres Puerto Riqueño. Ok, fílmame aquí... "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 7"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Places"
+        },
+        {
+          "tag": "Self-determination-National--Puerto Rico",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Plebiscite",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "401b382f-3fbd-4451-b36d-00cac969f36e"
+    },
+    {
+      "start_time": 510,
+      "end_time": 542,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Showing their birth certificates and other ID, the New York voters proved they could participate in what's called a parallel plebiscite. Over the next few weeks, Puerto Ricans in Orlando, Florida, Springfield, Massachusetts and Chicago will be holding similar votes. Puerto Ricans living on the island will be voting for their future on November 14th. The plebiscites are non-binding on Congress, who will ultimately decide Puerto Rico's future. Bronx Borough President Fernando Ferrer says the higher than expected turnout in New York was a testament to the strong patriotic feelings of Puerto Ricans no matter where they live."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barco-Mandalit del",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Places"
+        },
+        {
+          "tag": "Self-determination-National--Puerto Rico",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Plebiscite",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "1993-11-14",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "bb462b00-0a34-4c87-9855-b2833683bfad"
+    },
+    {
+      "start_time": 543,
+      "end_time": 567,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The thousands of people who presented themselves at the polling places to vote with crumbled up birth certificates that they had to search for, made an extraordinary effort to be voters. And this is historic. This vote has an unmistakable moral and political weight that will be felt far beyond the borders of New York City."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ferrer-Fernando 1950-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Places"
+        },
+        {
+          "tag": "Self-determination-National--Puerto Rico",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Plebiscite",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "d57961c5-ac1c-478a-a0e0-467a31a1de09"
+    },
+    {
+      "start_time": 567,
+      "end_time": 583,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ferrer is getting the New York election off the ground was almost a miracle. He was astounded by the number of obstacles in putting on the no budget vote, which was staffed by volunteers. Manny Mirabal who heads New York City's coalition Pro-Puerto Rican participation talked about some of those obstacles."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barco-Mandalit del",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Places"
+        },
+        {
+          "tag": "Self-determination-National--Puerto Rico",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Plebiscite",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "c752ea67-345c-4193-898b-df7cdac0df41"
+    },
+    {
+      "start_time": 584,
+      "end_time": 619,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We were attacked by the leaders in Puerto Rico as having ulterior motives for the vote. We've been attacked from members of our own Puerto Rican community here for having political reasons for holding the vote. The bottom line is that we were not holding this vote so that when it was all over we could carry the banner of Ella and say, \"That's what we want.\" We're not going to do that. If statehood should win, we're not planning on carrying the banner for statehood. What we are planning on carrying the banner for is that 30,000 plus people, came to the polls, cast their ballot, and they all said the one thing and they all said that together, \"We want to be part of this process.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mirabal-Manny",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Places"
+        },
+        {
+          "tag": "Self-determination-National--Puerto Rico",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Plebiscite",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "8cfa95f7-b5fd-429d-a8b9-cee4e7921d16"
+    },
+    {
+      "start_time": 620,
+      "end_time": 635,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Congress knows that there is an election taking place on November 14th in Puerto Rico. Yet, officially or unofficially, they have sent out any signal that they're recognizing that election in Puerto Rico in any way.[Background, urban life]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rivera-Jose 1936-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Places"
+        },
+        {
+          "tag": "Self-determination-National--Puerto Rico",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Plebiscite",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Natural Sounds--Urban life",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "ff34ff44-03f5-4fef-98dc-aee7c4499f3e"
+    },
+    {
+      "start_time": 636,
+      "end_time": 652,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "City Councilman Jose Rivera and the organizers of the New York plebiscite say the outcome of the stateside votes could greatly influence Congress' decision. If the majority of mainland voters choose the same option as those on the island, they say Congress might be coaxed into declaring an official plebiscite."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barco-Mandalit del",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Places"
+        },
+        {
+          "tag": "Self-determination-National--Puerto Rico",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Plebiscite",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "f8a84eb4-e505-457e-ade9-6d0ec1d7e92f"
+    },
+    {
+      "start_time": 652,
+      "end_time": 676,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "By us participating in the mainland United States, we're able to vote for those who want to be members of Congress. We can also vote against those who wants to be member of Congress if they choose not to listen to us. So that's the difference. We have the power of electing and rejecting Congress person and that is the language that these people understand."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rivera-Jose 1936-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Places"
+        },
+        {
+          "tag": "Self-determination-National--Puerto Rico",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Plebiscite",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "a9deb44a-fc68-4efc-8d15-896595cd8c9d"
+    },
+    {
+      "start_time": 677,
+      "end_time": 683,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Final results of the New York vote won't be known for several weeks. For Latino USA, Mandalit del Barco in New York."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barco-Mandalit del",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Places"
+        },
+        {
+          "tag": "Self-determination-National--Puerto Rico",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Plebiscite",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "6c85be48-520e-4af2-bc11-0d5b1cd5229d"
+    },
+    {
+      "start_time": 684,
+      "end_time": 701,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Desenredando Nudos--Sotavento]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transition--Music--Latin Jazz",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "4ddffc6f-b046-4389-9714-8dd620d2779b"
+    },
+    {
+      "start_time": 702,
+      "end_time": 751,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mid-October marks the end of the celebration of Hispanic Heritage Month in the United States. There have been conferences, gala festivities, concerts, and lots of photo opportunities for politicians, Latinos and non-Latinos alike. But there are many Latinos who question the importance, the need and even the reason why this one month celebration exists. It's a growing debate in some sectors of the Latino community. Jane Delgado, the former executive director of the New York based Association of Hispanic Arts, is now an independent arts and education consultant and she joins me now on Latino USA to talk about the issue. Now, Jane, you have written several articles, you've written lots of position papers and been in several interviews and debates around the issue of Hispanic Heritage Month. Why do you feel so strongly against the celebration of Hispanic Heritage Month?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Association of Hispanic Arts",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Hispanic Heritage Month",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "adac092e-0c88-4b43-8b1b-bb55963113c5"
+    },
+    {
+      "start_time": 752,
+      "end_time": 798,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, Maria, the reason I oppose the commemoration of this one month is because I think that it does a disservice to us Latinos. What it does is that it relegates us to this one month beginning in September and concluding in mid-October. And somehow the sense that I get is that that is the only time when people are interested in becoming acquainted with our art, our culture, hearing our diverse opinions on any number of things, whether it's in the social sciences, in the natural sciences, in education and in history. And I think what it does is it diminishes us. I believe that the contributions that we have to make and the ideas and the thoughts that we have to share have validity throughout the entire year."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delgado-Jane",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Association of Hispanic Arts",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Hispanic Heritage Month",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "a13f9259-0f16-4a8c-974d-78b9107856ae"
+    },
+    {
+      "start_time": 798,
+      "end_time": 819,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Let's talk a little bit about the history because I think that there are probably many Latinos and non-Latinos alike who aren't really aware of how the Hispanic Heritage Month came to be. I mean, who chose this time to celebrate? I mean, was it the US government? Was it corporations? How did it give birth and who really benefits from the celebration of the Hispanic Heritage Month?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Association of Hispanic Arts",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Hispanic Heritage Month",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "9d8ce289-648f-46a3-a3ea-a526cd29aece"
+    },
+    {
+      "start_time": 819,
+      "end_time": 896,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, this was originally set up by the federal government and when it first began, it was a week and then it expanded to two weeks, and now we have a month. Subsequently, a lot of states follow suits and a lot of municipalities and about that point in time, the private sector joined in. I think it came on the heels of what had already been the observation of the Black History month in February and the sense that with the growing Latino population in the United States, we had to have a month for them too. And of course, now you know that we also have a month for the Asians and we have the month for women and so on and so forth. So it started out as a government thing and it's been quickly picked up by the private sector. It's interesting to note that the private sector spends a considerable amount of resources in commemoration of Hispanic Heritage Month. If those same corporations and industries were to take the monies that they spend bringing light to everything that they do for Latinos and how much they appreciate the Latino workforce and participation and gave those resources to a lot of our community-based organizations, non-for-profit organizations that are toiling day in and day out with the various issues that confront our community, that the contribution would be greater and that we would be better off."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delgado-Jane",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Association of Hispanic Arts",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Hispanic Heritage Month",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "ac63f052-89ae-49d5-8568-f2d8c1ee6ccf"
+    },
+    {
+      "start_time": 896,
+      "end_time": 903,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, but Jane, don't you think that the celebration of Hispanic Heritage Month in fact does benefit parts of the Latino community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Association of Hispanic Arts",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Hispanic Heritage Month",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "26f8b232-c10f-43eb-91a2-cc46b6258131"
+    },
+    {
+      "start_time": 903,
+      "end_time": 927,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't think it touches everyone. I think that, for example, with the corporate sector, they want to have the participation obviously of their employees, the individuals that they perceive to be significant members of the Latino community so that basically it's for the working class, the professional class, the up and coming mobile group that are the beneficiaries of these celebrations."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delgado-Jane",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Association of Hispanic Arts",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Hispanic Heritage Month",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "d66db9e2-51bc-4ab8-9bf5-ab551f46ed7b"
+    },
+    {
+      "start_time": 927,
+      "end_time": 943,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But there are those who say, well, they really appreciate this time because it's definitely one month that they can set aside in their lives to appreciate their Latino culture and a chance to teach others who don't know about it and that that's why they feel strongly that we should have this month. What do you say to people like that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Association of Hispanic Arts",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Hispanic Heritage Month",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "780139a3-b0cb-42b4-b780-46a53bddbb15"
+    },
+    {
+      "start_time": 944,
+      "end_time": 1001,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If I felt that this commemoration made a quantifiable difference in the status, even of those limited few that get to participate, meaning that if I thought it helped them in advance in their positions to be able to move ahead in whatever ways were important to them as a result, perhaps I would feel differently. But the quick and dirty samples and surveys that have been conducted demonstrate that ever since we've had the Hispanic Heritage Month, we really have not been able to measure any quantifiable leaps or advances for our people. And so it just seems as though here again, we are sort of easing others and making others feel good about the ostensible tribute that they're paying to our community. But if it doesn't amount to advancement and new opportunities for our people, then what's the use?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delgado-Jane",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Association of Hispanic Arts",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Hispanic Heritage Month",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "b1bbec92-29b6-4f2e-808f-d35aa5302a72"
+    },
+    {
+      "start_time": 1001,
+      "end_time": 1011,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, thank you very much for joining us on Latino USA. Jane Delgado, the former executive director of the Association of Hispanic Arts, who's now an independent arts and education consultant. Muchas gracias Jane."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Association of Hispanic Arts",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Hispanic Heritage Month",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "51688334-e4c1-4722-8ad9-c485865b0731"
+    },
+    {
+      "start_time": 1011,
+      "end_time": 1013,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Si, como no, buen día Maria."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delgado-Jane",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Association of Hispanic Arts",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Hispanic Heritage Month",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "cd54e59d-7ac0-4261-8f4c-1001e1297c17"
+    },
+    {
+      "start_time": 1014,
+      "end_time": 1045,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Guitar]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transition--Music--Guitar",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "2f7be3c8-a2c9-43c8-b7dd-b70834ec4ef8"
+    },
+    {
+      "start_time": 1046,
+      "end_time": 1064,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Raiz Viva--Los Folkloristas]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transition--Music--Regional Mexican",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "397084bf-61e7-4126-8994-2f10c97fc6a9"
+    },
+    {
+      "start_time": 1064,
+      "end_time": 1097,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Visitors to Mexico City are familiar with the ruins of Teotihuacan, and its pyramids to the sun and the moon. Now, a rare collection of art from that ancient Mexican site is on display at San Francisco's M. H. de Young Museum. The masks, sculptures and mural fragments assembled from collections around the world give the most comprehensive view ever of the city of Teotihuacan, and a civilization which lasted some 800 years. Isabel Alegria prepared this report."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Mexico City",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Mexico State--Teotihuacan",
+          "category": "Places"
+        },
+        {
+          "tag": "M H de Young Museum",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Exhibition--Teotihuacan City of the Gods",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "782b01de-c5ed-4802-8c91-c4d399a54059"
+    },
+    {
+      "start_time": 1098,
+      "end_time": 1113,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Footsteps] Kathleen Barron, the show's curator leads the way into a small gallery hung with portions of murals from Teotihuacan, that date back some 1300 years. Their surfaces seem flecked with thousands of tiny stars."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Alegria-Isabel",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Mexico City",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Mexico State--Teotihuacan",
+          "category": "Places"
+        },
+        {
+          "tag": "M H de Young Museum",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Exhibition--Teotihuacan City of the Gods",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "2d5a4d97-2fa1-42ff-8bbc-cd78c75cbdf0"
+    },
+    {
+      "start_time": 1114,
+      "end_time": 1143,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Isn't it wonderful the way they just sparkle and gleam? The shiny specs of Micah were an intended effect of the ancient Teotihuacan artists. They're not something that just occurred over time. You have to imagine the beautiful patios within the apartment compounds would've been painted with repeating scenes of elaborate ritual figures in profile at one after another."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barron-Kathleen",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Mexico City",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Mexico State--Teotihuacan",
+          "category": "Places"
+        },
+        {
+          "tag": "M H de Young Museum",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Exhibition--Teotihuacan City of the Gods",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "19c3958d-5bdc-4cf1-b60b-20580e5fe034"
+    },
+    {
+      "start_time": 1143,
+      "end_time": 1179,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "These mural pieces and dozens more were bequeathed to the museum in 1976 by a San Francisco architect, Harold Wagner. He bought them legally though originally they were stolen from the Teotihuacan by looters. Kathy Barron says, Wagner's home was laid out with the priceless fragments like so many puzzle pieces on tables and floors. To help preserve and restore the fragments, museum staff decided to call on Mexican specialists. And in a move that surprised many, Barron says the museum also decided to return most of the treasures to Mexico. Although, US law did not require it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Alegria-Isabel",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Mexico City",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Mexico State--Teotihuacan",
+          "category": "Places"
+        },
+        {
+          "tag": "M H de Young Museum",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Exhibition--Teotihuacan City of the Gods",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "1976",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "f04894b4-b09f-4660-ba18-9d3749b7a707"
+    },
+    {
+      "start_time": 1179,
+      "end_time": 1195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We felt that because there were such great numbers of Teotihuacan murals in the collection and many, many duplications, that it would be an important gesture and important ethical stand for our museum to take a statement against looting against this kind of destruction."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barron-Kathleen",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Mexico City",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Mexico State--Teotihuacan",
+          "category": "Places"
+        },
+        {
+          "tag": "M H de Young Museum",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Exhibition--Teotihuacan City of the Gods",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "6b6dabde-8c01-42b0-b228-0883f96b0bd0"
+    },
+    {
+      "start_time": 1195,
+      "end_time": 1221,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Barron says experts from the US and Mexico worked closely for nearly a decade on the murals. Their work inspired the exhibit and also prompted a special outreach effort by the de Young to the Hispanic community. Today, a colorful mural painted by Latino artists beckons museum goers in to see the exhibit. There are Spanish signs throughout and Mexican-American singer Linda Ronstadt hosts a show's audio tour."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Alegria-Isabel",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Mexico City",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Mexico State--Teotihuacan",
+          "category": "Places"
+        },
+        {
+          "tag": "M H de Young Museum",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Exhibition--Teotihuacan City of the Gods",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "a78b7a4b-6a0d-480e-a35a-51602ea30982"
+    },
+    {
+      "start_time": 1221,
+      "end_time": 1231,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[chimes] On the wall to the right and the center case is a fabulous incensario that is a true one of a kind. [chimes and shell rattles]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ronstadt-Linda",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Mexico City",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Mexico State--Teotihuacan",
+          "category": "Places"
+        },
+        {
+          "tag": "M H de Young Museum",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Exhibition--Teotihuacan City of the Gods",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "97125c4b-7f58-40be-acf0-3c8b3e1e70d6"
+    },
+    {
+      "start_time": 1232,
+      "end_time": 1268,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Besides the murals, the exhibit features elaborately crafted incense burners and ritual figurines used by the people of Teotihuacan, which at its height was the world's sixth-largest city and a major Mesoamerican ceremonial site. The exhibit shows Teotihuacan's influence on the Aztecs who came some 600 years later. One gallery shows an extraordinary collection of greenstone, alabaster, and onyx masks used in the hundreds of temples that once lined Teotihuacan street of the dead. 18-year old museum goer, Judith Torres found the masks unsettling."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Alegria-Isabel",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Mexico City",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Mexico State--Teotihuacan",
+          "category": "Places"
+        },
+        {
+          "tag": "M H de Young Museum",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Exhibition--Teotihuacan City of the Gods",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "a827e5d0-ebe6-4f79-8ea5-3188fc493592"
+    },
+    {
+      "start_time": 1269,
+      "end_time": 1281,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's kind of a scary feeling. They're mean looking and they have very strong features and it feels like somebody's actually looking at you or somebody's going to come out and say something."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Torres-Judith",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Mexico City",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Mexico State--Teotihuacan",
+          "category": "Places"
+        },
+        {
+          "tag": "M H de Young Museum",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Exhibition--Teotihuacan City of the Gods",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "74231ec2-9a0d-491f-9c7c-a33301dd4e54"
+    },
+    {
+      "start_time": 1282,
+      "end_time": 1301,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Teotihuacan was dedicated primarily to two principle deities, a storm god, an early inspiration for the Aztec rain god Tlaloc. And an earth goddess, who some scholars think may distinguish Teotihuacan as the only Mesoamerican civilization with a goddess as supreme deity. Curator Kathy Barron."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Alegria-Isabel",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Mexico City",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Mexico State--Teotihuacan",
+          "category": "Places"
+        },
+        {
+          "tag": "M H de Young Museum",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Exhibition--Teotihuacan City of the Gods",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "cdbce651-b31a-4dfc-805c-74b90fe26a41"
+    },
+    {
+      "start_time": 1302,
+      "end_time": 1323,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She can be very peaceful and very calm, a giver of gifts associated with treasures, associated with nature. She can also be a destructive power as we see in the mural in the corner where she's rendered virtually faceless, but she's got claws and barred teeth."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barron-Kathleen",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Mexico City",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Mexico State--Teotihuacan",
+          "category": "Places"
+        },
+        {
+          "tag": "M H de Young Museum",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Exhibition--Teotihuacan City of the Gods",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "94640f88-6f87-40cd-9770-6481870b43c5"
+    },
+    {
+      "start_time": 1324,
+      "end_time": 1339,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Barron says some experts believe Mexico's Virgen de Guadalupe is a continuation of this ancient earth goddess in her beneficent form. These Latino visitors to the exhibit found their own examples of how the art of Teotihuacan resounds in their lives today."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Alegria-Isabel",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Mexico City",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Mexico State--Teotihuacan",
+          "category": "Places"
+        },
+        {
+          "tag": "M H de Young Museum",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Exhibition--Teotihuacan City of the Gods",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "bd3f1b78-68b6-4671-aa44-8a3b6d659301"
+    },
+    {
+      "start_time": 1340,
+      "end_time": 1350,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I have a brother named Tlaloc, so I saw his actual feature in what his name really represented. And I knew what it represented, but I didn't see exactly what it represented. There was a different name for it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 9"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Mexico City",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Mexico State--Teotihuacan",
+          "category": "Places"
+        },
+        {
+          "tag": "M H de Young Museum",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Exhibition--Teotihuacan City of the Gods",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "8dacf1f2-6b34-4a54-9a96-90a1828c8fcb"
+    },
+    {
+      "start_time": 1350,
+      "end_time": 1359,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Some of the statues, some of the little ornaments they had, some of them my grandmother had objects that are similar to that, pots and such."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 10"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Mexico City",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Mexico State--Teotihuacan",
+          "category": "Places"
+        },
+        {
+          "tag": "M H de Young Museum",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Exhibition--Teotihuacan City of the Gods",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "98c24a52-7b61-4b76-ba63-dcfd1a93dea3"
+    },
+    {
+      "start_time": 1359,
+      "end_time": 1376,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To us, that's like our culture and we look at it and we're amazed, but then it makes us proud of who we are. And if somebody else sees it, they'll just be amazed but I mean, it means nothing to them. It's just a work of art to them that it's nice, but to us it means a lot."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 11"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Mexico City",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Mexico State--Teotihuacan",
+          "category": "Places"
+        },
+        {
+          "tag": "M H de Young Museum",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Exhibition--Teotihuacan City of the Gods",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "98f10732-ded6-4a81-b52e-5799af472d57"
+    },
+    {
+      "start_time": 1377,
+      "end_time": 1392,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When Teotihuacan, city of the Gods, ends its run at the M. H. de Young Museum, the collection of Teotihuacan's murals will remain on display as part of the museum's permanent collection. For Latino USA, I'm Isabel Alegria in San Francisco."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Alegria-Isabel",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Mexico City",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Mexico State--Teotihuacan",
+          "category": "Places"
+        },
+        {
+          "tag": "M H de Young Museum",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Exhibition--Teotihuacan City of the Gods",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "e919c930-15c8-46e3-ad01-5a652aac84d4"
+    },
+    {
+      "start_time": 1392,
+      "end_time": 1410,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Raiz Viva--Los Folkloristas]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transition--Music--Regional Mexican",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "b0ad220e-e087-463b-bfb0-6398a728327e"
+    },
+    {
+      "start_time": 1412,
+      "end_time": 1416,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What does it mean to you to be in a gang? Why are you in a gang?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 12"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexican Mafia--Gang",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Gangs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Poverty",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Prisoners",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "0d650970-ebec-47f0-92a0-1638bf6e2dba"
+    },
+    {
+      "start_time": 1416,
+      "end_time": 1417,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Why am I in a gang?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 13"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexican Mafia--Gang",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Gangs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Poverty",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Prisoners",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "8e2e552a-f81b-4ae4-ae05-0fd109a664b8"
+    },
+    {
+      "start_time": 1417,
+      "end_time": 1417,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes ma'am."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 12"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexican Mafia--Gang",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Gangs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Poverty",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Prisoners",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "5d3f31ee-8e60-4a0a-9f12-0162d504d059"
+    },
+    {
+      "start_time": 1417,
+      "end_time": 1423,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cause well, ever since I was little, I've always been on my own. Ever since I was young, my parents-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 13"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexican Mafia--Gang",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Gangs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Poverty",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Prisoners",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "b28f949c-b374-46f7-bd67-6c1d65cc98dc"
+    },
+    {
+      "start_time": 1422,
+      "end_time": 1424,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Where are your parents?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 12"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexican Mafia--Gang",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Gangs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Poverty",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Prisoners",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "b29a55bb-13de-40a5-9c81-fb503838bb7d"
+    },
+    {
+      "start_time": 1424,
+      "end_time": 1432,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They're in jail. My parents are in jail. My mom was 14 when she had me and my dad was 18. And they're in jail right now. They're doing life."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 13"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexican Mafia--Gang",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Gangs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Poverty",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Prisoners",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "b3e35ee8-159d-4390-b269-d0debb19defb"
+    },
+    {
+      "start_time": 1432,
+      "end_time": 1438,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Chicano Rap Beat]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexican Mafia--Gang",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Gangs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Poverty",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Prisoners",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Highlight--Music--Hip-hop",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "4697f8c9-b8a6-4928-b443-1a7610d9dfb8"
+    },
+    {
+      "start_time": 1438,
+      "end_time": 1484,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In Los Angeles, an organization known as the Mexican Mafia is being given credit for an apparent decrease in the number of gang related drive-by shootings. Reportedly, members of that group, which had its origins in California's prisons have been meeting with Latino gangs throughout the city, calling for a halt to the violence, which has killed a growing number of innocent bystanders in Los Angeles. Some, including law enforcement officials, have criticized the involvement of the Mexican mafia, also known as La eMe. But community activist Javier Rodriguez, whose life has been personally touched by gang violence, says that before this effort is condemned, one should understand what it says about our society."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexican Mafia--Gang",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Gangs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Poverty",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Prisoners",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "e72d72cf-8e95-4ac5-bc36-00e0884dce47"
+    },
+    {
+      "start_time": 1485,
+      "end_time": 1564,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Skeptics have quickly dismissed this radical move by the Mexican mafia. The reputed prison spawned organization from California, also known as La eMe Spanish phonetic for ‘M’. They point out possible ulterior criminal motives. They may be right. Paradoxically however, the move has struck a positive cord among many community people who see the intervention as a ray of light in a seemingly endless tunnel of fear and violence. That our community may see this development with favor, should not surprise anyone. The move with all its limitations addresses the most immediate fear of those who live in terror in our community. The fear of the reckless killing of innocent bystanders, children and the elderly by wanting reckless gangsters who make our barrios their battle war zones. La eMe is only filling a void in leadership that has been unable to halt the rapidly rising spiral of gang shootings. Any move to reject La eMe's call or its benefits are irresponsible and places our community in a catch 22. Especially when the move appears to be affecting a significant portion of the Latino gangs in Southern California."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rodriguez-Luis J 1954-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexican Mafia--Gang",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Gangs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Poverty",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Prisoners",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "98d474ca-5886-475d-a598-826552e54be2"
+    },
+    {
+      "start_time": 1565,
+      "end_time": 1651,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There appears to be a dramatic reduction in drive-by shootings in the eastern part of the County of Los Angeles. There is also evidence that because of La eMe's efforts, gang members are safely crossing through other gang turfs without fear of retaliation. La eMe is using a message of appealing to the pride and respect for La Raza, the Mexican people. However, it is also combined with a threat of reprisal to all those that violate the truths. It is yes, a limited call to halt the violence, denouncing drive-bys as a cowardly act of battle. It doesn't call for the end of killings or of gangs and their principles. However, that may be the source of its success. If the effort fails, it may not be because of its own limitations or because it came from the wrong elements. It will be because we as a society failed. In the end, La eMe's efforts and others like it will fail unless we begin to address the root causes of crime, gang banging and drive-bys. That is poverty, racism, and injustice. After all, let's not forget that gang proliferation and drive-bys have been concurring with [unintelligible] and its opposite. The concentration of wealth in the hands of the few during all these years of neoliberal economic policies."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rodriguez-Luis J 1954-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexican Mafia--Gang",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Gangs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Poverty",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Prisoners",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "0a3082ca-9a0e-41da-b316-6b2cf6ba947f"
+    },
+    {
+      "start_time": 1651,
+      "end_time": 1662,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Chile sin carne--Flor de caña]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexican Mafia--Gang",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Gangs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Poverty",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Prisoners",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Highlight--Music--Fusion",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "703e3c70-91fb-464c-b4e1-8fb41becf4de"
+    },
+    {
+      "start_time": 1663,
+      "end_time": 1672,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Javier Rodriguez is a community activist and media consultant in Los Angeles. His son was killed in a gang-related incident."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexican Mafia--Gang",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Gangs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Poverty",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Prisoners",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "d2f8314b-7a18-4043-abd7-1aea3cdcc75b"
+    },
+    {
+      "start_time": 1673,
+      "end_time": 1682,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Chile sin carne--Flor de caña]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transition--Music--Fusion",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "b63286b8-bd4c-4a72-ac64-d164c9a99c47"
+    },
+    {
+      "start_time": 1683,
+      "end_time": 1739,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And for this week, y por esta semana, this has been Latino USA, the Radio Journal of News and Culture. Latino USA is produced and edited by Maria Emilia Martin. The associate producer is Angelica Luévano. We had help this week from Vidal Guzmán, Elena Quesada and Karyl Wheeler. Latino USA is produced at the studios of KUT in Austin, Texas. The technical producer is Walter Morgan. We want to hear from you, so porque no nos llaman, call us on our tow free number. It's 1-800-535-5533. That's 1-800-535-5533. Major funding for Latino USA comes from the Ford Foundation, the Corporation for Public Broadcasting, and the University of Texas at Austin. Y hasta la próxima, until next time, I'm Maria Hinojosa for Latinos USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        }
+      ],
+      "uuid": "8eb49fdd-3c1f-4e03-b6bb-7a6f22d04f7e"
+    }
+  ],
   "set": "Default",
   "event_id": "c91daeaa-c9cc-41a6-8afd-9d285f9fc833",
   "source_id": "4eee48a9-af5f-43bc-8de4-2659162ec2d3"
