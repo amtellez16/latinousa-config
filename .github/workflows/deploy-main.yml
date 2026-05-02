@@ -69,7 +69,7 @@ jobs:
         working-directory: "./client"
         timeout-minutes: 60
         run: |
-          cat > /tmp/astro-build-wrapper.mjs << 'WRAPPER_EOF'
+          cat > ./astro-build-wrapper.mjs << 'WRAPPER_EOF'
           import { build } from 'astro';
           import { fileURLToPath } from 'url';
           import path from 'path';
@@ -78,7 +78,7 @@ jobs:
           console.log('Wrapper: build complete, forcing exit');
           process.exit(0);
           WRAPPER_EOF
-          node --max-old-space-size=6144 /tmp/astro-build-wrapper.mjs
+          node --max-old-space-size=6144 ./astro-build-wrapper.mjs
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
