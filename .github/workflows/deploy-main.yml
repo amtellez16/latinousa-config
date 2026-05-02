@@ -69,14 +69,16 @@ jobs:
         working-directory: "./client"
         timeout-minutes: 60
         run: |
-          node --max-old-space-size=6144 ./node_modules/.bin/astro build &
-          BUILD_PID=$!
-          wait $BUILD_PID
-          BUILD_EXIT=$?
-          echo "Build exited with code $BUILD_EXIT"
-          kill $(pgrep -f "astro") 2>/dev/null || true
-          kill $(pgrep -f "vite") 2>/dev/null || true
-          exit $BUILD_EXIT
+          cat > /tmp/astro-build-wrapper.mjs << 'WRAPPER_EOF'
+          import { build } from 'astro';
+          import { fileURLToPath } from 'url';
+          import path from 'path';
+          const root = path.dirname(fileURLToPath(import.meta.url));
+          await build({ root });
+          console.log('Wrapper: build complete, forcing exit');
+          process.exit(0);
+          WRAPPER_EOF
+          node --max-old-space-size=6144 /tmp/astro-build-wrapper.mjs
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
