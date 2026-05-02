@@ -56,11 +56,20 @@ jobs:
         run: mkdir -p "./client/src/content/manifests"
       - name: Generate manifest
         run: npx tsx ./client/generate-iiif-3-manifests.ts -d './data' -u "https://${{ github.repository_owner }}.github.io/${{ env.project_project_slug}}" -s 'false'
+      - name: Patch Astro config for memory-safe build
+        run: |
+          node -e \
+            "const fs=require('fs');" \
+            "const p='./client/dynamic-astro-config.js';" \
+            "let c=fs.readFileSync(p,'utf8');" \
+            "c=c.replace('export const dynamicConfig = {','export const dynamicConfig = {\\n  build: { concurrency: 1 },');" \
+            "fs.writeFileSync(p,c);" \
+            "console.log('Patched concurrency=1')"
       - name: Build Astro Client
         working-directory: "./client"
         timeout-minutes: 60
         run: |
-          node --max-old-space-size=4096 ./node_modules/.bin/astro build &
+          node --max-old-space-size=6144 ./node_modules/.bin/astro build &
           BUILD_PID=$!
           wait $BUILD_PID
           BUILD_EXIT=$?
