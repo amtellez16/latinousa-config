@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "df59e20b-f82f-40c3-ae02-4c408c0fe939",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-04-27T14:35:30.437Z",
   "created_by": "amtellez16",
   "title": "Latino USA Episode 01",
   "slug": "latino-usa-episode-01",
-  "updated_at": "2026-04-27T14:35:30.437Z",
+  "updated_at": "2026-05-06T20:13:15.432Z",
   "updated_by": "amtellez16",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "df59e20b-f82f-40c3-ae02-4c408c0fe939"
   }
