@@ -21,81 +21,65 @@ jobs:
     steps:
       - name: Checkout project repository
         uses: actions/checkout@v4
-      - name: Reformat project.json
-        run: python3 -c "import json; f=open('./data/project.json','r+'); data=json.load(f); f.seek(0); json.dump(data,f,indent=4); f.truncate()"
+
       - name: Read in the project file
         id: project
         uses: antifree/json-to-variables@v1.0.1
         with:
           filename: ./data/project.json
           prefix: project
+
       - name: Checkout project-client
         uses: actions/checkout@v4
         with:
           repository: AVAnnotate/project-client
           path: "./client"
           ref: ${{vars.PROJECT_CLIENT_BRANCH || 'main'}}
+
       - name: npm install
         working-directory: "./client"
         run: npm install
+
       - name: Ensure a content directory
         run: mkdir -p "./client/src/content"
+
       - name: Copy data to content directory
         run: cp -r ./data/* ./client/src/content
+
       - name: Make a project directory if it does not exist
         run: mkdir -p "./client/src/content/project"
+
       - name: Move project.json file to project directory
         run: mv ./client/src/content/project.json ./client/src/content/project/project.json
+
       - name: Copy any VTT files to public
         run: cp -r ./data/vtt/. ./client/public/
+
       # Only publish when directed
       - name: Setup Pages
+        if: ${{ env.project_publish_publish_pages_app == 'true' }}
         id: pages
         uses: actions/configure-pages@v5
+
       - name: Make a manifests directory if it does not exist
         run: mkdir -p "./client/src/content/manifests"
+
       - name: Generate manifest
         run: npx tsx ./client/generate-iiif-3-manifests.ts -d './data' -u "https://${{ github.repository_owner }}.github.io/${{ env.project_project_slug}}" -s 'false'
-      - name: Patch Astro config for memory-safe build
-        run: |
-          node -e \
-            "const fs=require('fs');" \
-            "const p='./client/dynamic-astro-config.js';" \
-            "let c=fs.readFileSync(p,'utf8');" \
-            "c=c.replace('export const dynamicConfig = {','export const dynamicConfig = {\\n  build: { concurrency: 1 },');" \
-            "fs.writeFileSync(p,c);" \
-            "console.log('Patched concurrency=1')"
+
       - name: Build Astro Client
-        working-directory: "./client"
-        timeout-minutes: 40
-        run: |
-          cat > ./astro-build-wrapper.mjs << 'WRAPPER_EOF'
-          import { build } from 'astro';
-          import { fileURLToPath } from 'url';
-          import path from 'path';
-          const root = path.dirname(fileURLToPath(import.meta.url));
-          await build({ root });
-          console.log('Wrapper: build complete, forcing exit');
-          process.exit(0);
-          WRAPPER_EOF
-          timeout --kill-after=30s 33m node --max-old-space-size=6144 ./astro-build-wrapper.mjs || TIMEOUT_EXIT=$?
-          if [ -d "./dist" ]; then
-            echo "Build output found in dist/, treating as success"
-            exit 0
-          else
-            echo "Build failed - dist/ not found"
-            exit 1
-          fi
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: withastro/action@v4
         with:
-          path: "./client/dist"
+          path: "./client"
+
       - name: Deploy to GitHub Pages
+        if: ${{ env.project_publish_publish_pages_app == 'true' }}
         id: deployment
         uses: actions/deploy-pages@v4
         env:
           name: github-pages
           url: ${{ steps.deployment.outputs.page_url }}
+
       - name: Create an offline site
         if: ${{ env.project_publish_publish_static_site == 'true' }}
         env:
