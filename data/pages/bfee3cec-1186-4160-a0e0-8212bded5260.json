@@ -4,6 +4,145 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Latino USA - Episode 6",
+          "textSize": "heading-one"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-one",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This episode aired on June 12, 1993, and was hosted by Maria Hinojosa. The episode was produced at KUT in Austin, Texas."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Las Noticias",
+          "bold": true,
+          "textSize": "heading-four"
+        },
+        {
+          "text": "\nNews anchor Maria Martin covers several stories. The Hispanic National Bar Association is lobbying President Clinton to appoint the first-ever Latino to the U.S. Supreme Court, presenting a shortlist of seven candidates including a New Mexico Supreme Court justice, the Texas Attorney General, and a former leader of MALDEF. In Florida, Dade County's 13-year English-only law is repealed after a contentious five-hour hearing, meaning county services including AIDS information and child abuse resources will now be available in Spanish. A coalition of 28 Latino organizations gives the Clinton administration a C-minus for Latino appointments in its first 100 days, noting that four departments received failing grades for having no Latinos in Senate-confirmed positions. Three California Latino organizations take out a full-page ad in the New York Times urging Clinton to include undocumented immigrants in his healthcare plan, arguing it is both a public health necessity and a cost-saving measure. The segment closes with a note that farm workers were excluded from Washington State's new healthcare law, which advocates call unconstitutional."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Audio Essay: \"Alien Nation\"",
+          "bold": true,
+          "textSize": "heading-four"
+        },
+        {
+          "text": "\nPerformance artist Guillermo Gomez-Pena, actress Yareli Arizmendi, and rock musician Sergio Arau contribute a sharp audio essay on the dehumanizing language used to describe undocumented immigrants. Playing on words like \"alien,\" \"wetback,\" and \"illegal,\" the piece uses humor, spoken word, and hip-hop to expose the absurdity and cruelty baked into everyday immigration discourse."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The Clave: Heartbeat of Latin Music",
+          "bold": true,
+          "textSize": "heading-four"
+        },
+        {
+          "text": "\nReporter Marta Valentin offers a rich music appreciation segment tracing the clave, a five-stroke rhythmic pattern played on two wooden sticks, as the foundational heartbeat of Cuban rumba, salsa, and Latin music broadly. Valentin explains how the pattern holds an entire performance together even when the physical claves are not present, and traces its presence across merengue, cha-cha-cha, guaracha, and bolero. The segment is built around a conversation Valentin had with an American coworker who was tapping to the wrong beat at a Latin club, and blooms into a warm invitation to listen differently."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The CARA Art Exhibition",
+          "bold": true,
+          "textSize": "heading-four"
+        },
+        {
+          "text": "\nReporter Maria Martin covers the final stop of the CARA show, an acronym for Chicano Art Resistance and Affirmation, at the San Antonio Museum of Art. The two-year traveling exhibit is the first ever devoted specifically to Chicano art, and features posters, holograms, and altars from the Chicano art movement of the 1960s and 70s. Playwright Luis Valdez connects the show's title to the Aztec concept of acquiring a face through life, while art scholar Tomas Ybarra-Frausto argues that lumping Chicano identity under the broader label of Hispanic erases its Indigenous and African roots."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Interview: Ana Castillo",
+          "bold": true,
+          "textSize": "heading-four"
+        },
+        {
+          "text": "\nMaria Hinojosa speaks with Chicana novelist and poet Ana Castillo about her new novel \"So Far From God,\" set in New Mexico and following a woman named Sophie and her four daughters as they navigate themes of faith, women's rights, environmental racism, and Catholicism. Castillo rejects the label of magical realism, saying the book is better understood as rooted in faith, whether Catholic, Pueblo Indian, or otherwise. She reflects on nearly 20 years of writing through racism, sexism, and classism before reaching wide recognition, and closes with advice to young Latino writers: read everything, write constantly, and trust your voice."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -35,7 +174,7 @@
   "created_by": "amtellez16",
   "title": "Latino USA Episode 06",
   "slug": "latino-usa-episode-06",
-  "updated_at": "2026-05-14T21:27:05.243Z",
+  "updated_at": "2026-05-14T21:45:19.186Z",
   "updated_by": "amtellez16",
   "autogenerate": {
     "enabled": false,
