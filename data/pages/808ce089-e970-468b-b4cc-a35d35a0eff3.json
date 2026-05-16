@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "077d2b9f-078d-4a12-8243-48967e6af8cd",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-04-27T14:35:31.077Z",
   "created_by": "amtellez16",
   "title": "Latino USA Episode 17",
   "slug": "latino-usa-episode-17",
-  "updated_at": "2026-04-27T14:35:31.077Z",
+  "updated_at": "2026-05-16T21:26:47.976Z",
   "updated_by": "amtellez16",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "077d2b9f-078d-4a12-8243-48967e6af8cd"
   }
