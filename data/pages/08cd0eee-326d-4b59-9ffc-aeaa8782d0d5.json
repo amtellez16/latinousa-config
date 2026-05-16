@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "6711b4b5-1389-4fc9-9db5-0602b10020ad",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-04-27T14:35:31.455Z",
   "created_by": "amtellez16",
   "title": "Latino USA Episode 25",
   "slug": "latino-usa-episode-25",
-  "updated_at": "2026-04-27T14:35:31.455Z",
+  "updated_at": "2026-05-16T23:02:17.011Z",
   "updated_by": "amtellez16",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "6711b4b5-1389-4fc9-9db5-0602b10020ad"
   }
