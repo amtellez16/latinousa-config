@@ -4,6 +4,176 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Latino USA - Episode 15",
+          "textSize": "heading-one"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-one",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This episode aired on August 14, 1993, and was hosted by Maria Hinojosa. The episode was produced at KUT in Austin, Texas."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Las Noticias",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The news segment covered several stories. President Clinton's compromise policy on gays in the military drew criticism from Latino/a LGBT advocates, while a Gallup poll showed 58% of Americans supported it. In Los Angeles, county administrators were considering closing four major healthcare centers and 20 clinics to address budget shortfalls, with legal advocates warning the cuts would be catastrophic for the city's 40% Latino/a population. Former Texas Congressman Albert Bustamante was convicted on two counts of racketeering after a federal trial in San Antonio. Migrant worker advocates reported that farmworkers displaced by Midwest flooding were being overlooked by federal disaster relief, seen as temporary residents unworthy of the same attention as property-owning farmers. In Washington, Congressman Ron Coleman of El Paso introduced legislation to create a U.S.-Mexico Border Health Commission to address disease rates along the border, including tuberculosis, hepatitis, and cholera, that far exceeded national averages. Coleman drew a pointed comparison between the federal response to the flooding in Iowa and the chronic lack of clean drinking water affecting 350,000 Americans on the border."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "NCLR Turns 25",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The National Council of La Raza held its 25th annual conference in Detroit, where actor Edward James Olmos hosted a retrospective on the organization's founding in Phoenix in 1968. A report released at the conference found that one-third of Latino/a families living below the poverty line had at least one full-time worker, challenging the stereotype of poor Latino/as as welfare-dependent. A separate study highlighted Latino/as in the Midwest as a largely invisible but growing population with distinct challenges, including notably higher labor force participation among Latina women compared to national figures."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "What Do We Call Ourselves?",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A wide-ranging segment explored the ongoing debate over what terminology best describes people of Latin American and Spanish-speaking heritage in the United States. Voices from the street offered perspectives ranging from Chicano to Puerto Rican to Cuban-Argentine, with many rejecting umbrella terms as imposed and imprecise. Researchers from the Latino National Political Survey noted that most people in the community identify primarily by national origin rather than by broader labels. Syndicated columnist Roger Hernandez offered a commentary arguing that Hispanic is the most accurate term, one that acknowledges shared Spanish cultural and linguistic roots without erasing national diversity, while also conceding that both Hispanic and Latino are often misused to paper over ignorance about the community's actual complexity."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The Border Prepares for Free Trade",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "With NAFTA final negotiations underway, Latino USA's Maria Martin reported from a San Antonio finance conference where Commerce Secretary Ron Brown and his Mexican counterpart convened over 400 business executives to discuss border infrastructure. UCLA economist Raul Hinojosa described the U.S.-Mexico economic gap as ten-to-one, unique in the world, and argued that tariff reduction alone would not solve the region's environmental, housing, and infrastructure deficits. A coalition of Latino organizations proposed a North American Development Bank, backed by the National Council of La Raza and MALDEF, which could leverage $20 billion in infrastructure investment from $1 billion in startup capital. Performance artist Guillermo Gomez-Pena closed the episode with a spoken-word piece imagining the cultural and political consequences of NAFTA for identity on both sides of the border."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -35,7 +205,7 @@
   "created_by": "amtellez16",
   "title": "Latino USA Episode 15",
   "slug": "latino-usa-episode-15",
-  "updated_at": "2026-05-16T21:14:25.959Z",
+  "updated_at": "2026-05-16T21:20:12.704Z",
   "updated_by": "amtellez16",
   "autogenerate": {
     "enabled": false,
