@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "248cdadc-eaa2-47e0-91a8-b064731231c0",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-04-27T14:35:31.576Z",
   "created_by": "amtellez16",
   "title": "Latino USA Episode 28",
   "slug": "latino-usa-episode-28",
-  "updated_at": "2026-04-27T14:35:31.576Z",
+  "updated_at": "2026-05-16T23:30:40.515Z",
   "updated_by": "amtellez16",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "248cdadc-eaa2-47e0-91a8-b064731231c0"
   }
