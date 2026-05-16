@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "cfe77bfa-7c36-451e-a929-2e639073a34f",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-04-27T14:35:31.016Z",
   "created_by": "amtellez16",
   "title": "Latino USA Episode 15",
   "slug": "latino-usa-episode-15",
-  "updated_at": "2026-04-27T14:35:31.016Z",
+  "updated_at": "2026-05-16T21:14:25.959Z",
   "updated_by": "amtellez16",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "cfe77bfa-7c36-451e-a929-2e639073a34f"
   }
