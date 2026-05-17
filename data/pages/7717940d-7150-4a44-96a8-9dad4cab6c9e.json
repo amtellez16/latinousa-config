@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "589b0b3f-accb-4d84-9718-0157636ed832",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-04-27T14:35:31.836Z",
   "created_by": "amtellez16",
   "title": "Latino USA Episode 34",
   "slug": "latino-usa-episode-34",
-  "updated_at": "2026-04-27T14:35:31.836Z",
+  "updated_at": "2026-05-17T01:18:59.819Z",
   "updated_by": "amtellez16",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "589b0b3f-accb-4d84-9718-0157636ed832"
   }
