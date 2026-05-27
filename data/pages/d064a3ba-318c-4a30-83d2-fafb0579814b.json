@@ -13,8 +13,8 @@
       "type": "paragraph",
       "children": [
         {
-          "textSize": "heading-one",
-          "text": ""
+          "text": "",
+          "textSize": "heading-four"
         }
       ]
     },
@@ -22,7 +22,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This episode aired on January 1, 1994, and was hosted by Maria Hinojosa. The episode was produced at KUT in Austin, Texas."
+          "text": "Date range: December 26, 1993 - January 1, 1993",
+          "textSize": "heading-four"
         }
       ]
     },
@@ -56,7 +57,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Residents of Nogales, Arizona reported alarming clusters of rare cancers and what may be the world's highest rate of systemic lupus, prompting the creation of a state and federal border health task force, though causes remained undetermined. Fuerza Unida, a group of former Levi Strauss workers from San Antonio whose plant was moved to Costa Rica, brought their boycott campaign to Levi's San Francisco headquarters, demanding a fair settlement and challenging the company's progressive reputation. San Juan's mayor joined other city leaders in Washington to request federal help with violent crime, reporting more than 100 additional murders compared to the previous year. And President Clinton signed NAFTA into law, with National Council of La Raza president Raul Yzaguirre calling on Latino organizations to unite around ensuring communities received promised North American Development Bank funding, while some speculated the caucus's split vote on the treaty would create lasting divisions."
+          "text": "Residents of Nogales, Arizona, reported alarming clusters of rare cancers and what may be the world's highest rate of systemic lupus, prompting the creation of a state and federal border health task force, though causes remained undetermined. Fuerza Unida, a group of former Levi Strauss workers from San Antonio whose plant was moved to Costa Rica, brought their boycott campaign to Levi's San Francisco headquarters, demanding a fair settlement and challenging the company's progressive reputation. San Juan's mayor joined other city leaders in Washington to request federal help with violent crime, reporting more than 100 additional murders compared to the previous year. And President Clinton signed NAFTA into law, with National Council of La Raza president Raul Yzaguirre calling on Latino organizations to unite to ensure communities received the promised North American Development Bank funding, while some speculated that the caucus's split vote on the treaty would create lasting divisions."
         }
       ]
     },
@@ -223,7 +224,7 @@
   "created_by": "amtellez16",
   "title": "Latino USA Episode 35",
   "slug": "latino-usa-episode-35",
-  "updated_at": "2026-05-17T01:35:27.338Z",
+  "updated_at": "2026-05-27T20:05:16.267Z",
   "updated_by": "amtellez16",
   "autogenerate": {
     "enabled": false,
