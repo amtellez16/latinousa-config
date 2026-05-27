@@ -4,7 +4,7 @@
       "label": "Latino USA 23",
       "is_offline": false,
       "file_type": "Audio",
-      "file_url": "https://archive.org/download/latino-usa-episode-22/Latino%20USA%20Episode%2023.mp3",
+      "file_url": "https://utexas.box.com/shared/static/bp3qmuvm1agtqtzh6nkusginwlyqk02n.mp3",
       "duration": 1745
     }
   },
@@ -12,6 +12,9 @@
   "label": "Latino USA Episode 23",
   "created_at": "2026-04-27T14:35:30.241Z",
   "created_by": "amtellez16",
-  "updated_at": "2026-04-27T14:35:30.241Z",
-  "updated_by": "amtellez16"
+  "updated_at": "2026-05-27T21:29:21.197Z",
+  "updated_by": "amtellez16",
+  "av_file_order": [
+    "253a22ef-4fd2-4fd4-9f30-48b0adf85863"
+  ]
 }
