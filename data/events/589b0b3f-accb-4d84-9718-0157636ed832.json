@@ -4,7 +4,7 @@
       "label": "Latino USA 34",
       "is_offline": false,
       "file_type": "Audio",
-      "file_url": "https://archive.org/download/latino-usa-episode-32/LatinoUSA_Episode34.mp3",
+      "file_url": "https://utexas.box.com/shared/static/bwtqyo9exq6bsp918j4qzluvi2ocbbei.mp3",
       "duration": 1747
     }
   },
@@ -12,6 +12,9 @@
   "label": "Latino USA Episode 34",
   "created_at": "2026-04-27T14:35:30.241Z",
   "created_by": "amtellez16",
-  "updated_at": "2026-04-27T14:35:30.241Z",
-  "updated_by": "amtellez16"
+  "updated_at": "2026-05-27T21:43:28.150Z",
+  "updated_by": "amtellez16",
+  "av_file_order": [
+    "abb57f0e-1cf0-40e5-8599-04d31218cebc"
+  ]
 }
