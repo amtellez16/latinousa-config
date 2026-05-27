@@ -22,7 +22,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This episode aired on October 2, 1993, and was hosted by Maria Hinojosa. The episode was produced at KUT in Austin, Texas."
+          "text": "Date range: September 26, 1993 - October 2, 1993",
+          "bold": true
         }
       ]
     },
@@ -231,7 +232,7 @@
   "created_by": "amtellez16",
   "title": "Latino USA Episode 22",
   "slug": "latino-usa-episode-22",
-  "updated_at": "2026-05-16T22:31:16.940Z",
+  "updated_at": "2026-05-27T19:49:50.996Z",
   "updated_by": "amtellez16",
   "autogenerate": {
     "enabled": false,
