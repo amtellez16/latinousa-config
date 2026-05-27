@@ -4,7 +4,7 @@
       "label": "Latino USA 29",
       "is_offline": false,
       "file_type": "Audio",
-      "file_url": "https://archive.org/download/latino-usa-episode-22/Latino%20USA%20Episode%2029.mp3",
+      "file_url": "https://utexas.box.com/shared/static/i2psjwzbh80g8fpg9wh1towonwurtk9r.mp3",
       "duration": 1741
     }
   },
@@ -12,6 +12,9 @@
   "label": "Latino USA Episode 29",
   "created_at": "2026-04-27T14:35:30.241Z",
   "created_by": "amtellez16",
-  "updated_at": "2026-04-27T14:35:30.241Z",
-  "updated_by": "amtellez16"
+  "updated_at": "2026-05-27T21:38:04.005Z",
+  "updated_by": "amtellez16",
+  "av_file_order": [
+    "7a38fc2d-8aa1-4309-b125-c868d1a2b40a"
+  ]
 }
