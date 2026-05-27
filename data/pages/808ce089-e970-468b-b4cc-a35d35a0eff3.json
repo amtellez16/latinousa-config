@@ -21,7 +21,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This episode aired on August 28, 1993, and was hosted by Maria Hinojosa. The episode was produced at KUT in Austin, Texas."
+          "text": "Date range: August 22, 1993 - August 28, 1993",
+          "bold": true
         }
       ]
     },
@@ -204,7 +205,7 @@
   "created_by": "amtellez16",
   "title": "Latino USA Episode 17",
   "slug": "latino-usa-episode-17",
-  "updated_at": "2026-05-16T21:40:42.229Z",
+  "updated_at": "2026-05-27T19:27:50.638Z",
   "updated_by": "amtellez16",
   "autogenerate": {
     "enabled": false,
