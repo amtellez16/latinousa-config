@@ -4,7 +4,7 @@
       "label": "Latino USA 05",
       "is_offline": false,
       "file_type": "Audio",
-      "file_url": "https://archive.org/download/latino-usa-episode-22/Latino%20USA%20Episode%2005.mp3",
+      "file_url": "https://utexas.box.com/shared/static/hs7msbet0vw96f0pw13sdstg79xyf9j5.mp3",
       "duration": 1747
     }
   },
@@ -12,6 +12,9 @@
   "label": "Latino USA Episode 05",
   "created_at": "2026-04-27T14:35:30.241Z",
   "created_by": "amtellez16",
-  "updated_at": "2026-04-27T14:35:30.241Z",
-  "updated_by": "amtellez16"
+  "updated_at": "2026-05-27T20:53:53.122Z",
+  "updated_by": "amtellez16",
+  "av_file_order": [
+    "6a9d22ee-eb4c-4617-94fd-c0fe52da2e81"
+  ]
 }
