@@ -4,7 +4,7 @@
       "label": "Latino USA 07",
       "is_offline": false,
       "file_type": "Audio",
-      "file_url": "https://archive.org/download/episode-0012-2-track-02/Episode_0007_2%20Audio%20Track.mp3",
+      "file_url": "https://utexas.box.com/shared/static/m9qho6xa06az9ycogzyrpf45y929yh1c.mp3",
       "duration": 1726
     }
   },
@@ -12,6 +12,9 @@
   "label": "Latino USA Episode 07",
   "created_at": "2026-04-27T14:35:30.241Z",
   "created_by": "amtellez16",
-  "updated_at": "2026-04-27T14:35:30.241Z",
-  "updated_by": "amtellez16"
+  "updated_at": "2026-05-27T20:58:53.988Z",
+  "updated_by": "amtellez16",
+  "av_file_order": [
+    "d6a34909-3cdc-4bac-a855-774c1ac769e0"
+  ]
 }
