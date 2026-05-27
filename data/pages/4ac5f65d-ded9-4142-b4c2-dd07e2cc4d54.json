@@ -13,7 +13,6 @@
       "type": "paragraph",
       "children": [
         {
-          "textSize": "heading-one",
           "text": ""
         }
       ]
@@ -22,25 +21,29 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This episode aired on June 5, 1993, and was hosted by Maria Hinojosa. The episode was produced at KUT in Austin, Texas."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Las Noticias",
+          "text": "Date range: May 30, 1993 - June 5, 2026",
           "bold": true,
           "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "textSize": "heading-four",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "textSize": "heading-four",
+          "text": "Las Noticias"
         },
         {
           "text": "\nNews anchor Maria Martin covers several stories: Representative Javier Becerra of California is pushing legislation to create an independent commission to investigate human rights abuses by the Border Patrol, INS, and Customs along the U.S.-Mexico border. At UCLA, more than 90 students are arrested after occupying the faculty center to demand an independent Chicano Studies department, with students arguing the university has long withheld their own history from them. The newscast also touches on the retrial of Miami police officer William Lozano, whose 1989 shooting of an African American man sparked three days of riots; a PTA survey finding Hispanic parents are more optimistic than Anglo parents about public school improvement; and a report that Latino voter registration rose 12% in the 1992 election, nearly double the national average."
@@ -181,7 +184,7 @@
   "created_by": "amtellez16",
   "title": "Latino USA Episode 05",
   "slug": "latino-usa-episode-05",
-  "updated_at": "2026-05-14T21:26:49.046Z",
+  "updated_at": "2026-05-27T19:08:23.174Z",
   "updated_by": "amtellez16",
   "autogenerate": {
     "enabled": false,
