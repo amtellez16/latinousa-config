@@ -4,7 +4,7 @@
       "label": "Latino USA 17",
       "is_offline": false,
       "file_type": "Audio",
-      "file_url": "https://archive.org/download/latino-usa-episode-22/Latino%20USA%20Episode%2017.mp3",
+      "file_url": "https://utexas.box.com/shared/static/r6g6u7ldl7pdy1enn96u5fs6wfqy4pmr.mp3",
       "duration": 1743
     }
   },
@@ -12,6 +12,9 @@
   "label": "Latino USA Episode 17",
   "created_at": "2026-04-27T14:35:30.241Z",
   "created_by": "amtellez16",
-  "updated_at": "2026-04-27T14:35:30.241Z",
-  "updated_by": "amtellez16"
+  "updated_at": "2026-05-27T21:20:15.838Z",
+  "updated_by": "amtellez16",
+  "av_file_order": [
+    "dd027bdd-9d54-4599-9f27-57632e4d5e4b"
+  ]
 }
