@@ -13,7 +13,6 @@
       "type": "paragraph",
       "children": [
         {
-          "textSize": "heading-one",
           "text": ""
         }
       ]
@@ -22,7 +21,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This episode aired on August 14, 1993, and was hosted by Maria Hinojosa. The episode was produced at KUT in Austin, Texas."
+          "text": "Date range: August 8, 1993 - August 14, 1993",
+          "bold": true
         }
       ]
     },
@@ -205,7 +205,7 @@
   "created_by": "amtellez16",
   "title": "Latino USA Episode 15",
   "slug": "latino-usa-episode-15",
-  "updated_at": "2026-05-16T21:20:12.704Z",
+  "updated_at": "2026-05-27T19:24:26.238Z",
   "updated_by": "amtellez16",
   "autogenerate": {
     "enabled": false,
