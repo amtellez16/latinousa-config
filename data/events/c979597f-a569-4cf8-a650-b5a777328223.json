@@ -4,7 +4,7 @@
       "label": "Latino USA 10",
       "is_offline": false,
       "file_type": "Audio",
-      "file_url": "https://archive.org/download/episode-0012-2-track-02/Episode_0010_2%20Audio%20Track.mp3",
+      "file_url": "https://utexas.box.com/shared/static/tvulzgk1xkz01elbyclyq63aj3uul1sk.mp3",
       "duration": 1749
     }
   },
@@ -12,6 +12,9 @@
   "label": "Latino USA Episode 10",
   "created_at": "2026-04-27T14:35:30.241Z",
   "created_by": "amtellez16",
-  "updated_at": "2026-04-27T14:35:30.241Z",
-  "updated_by": "amtellez16"
+  "updated_at": "2026-05-27T21:09:06.265Z",
+  "updated_by": "amtellez16",
+  "av_file_order": [
+    "a0a0020a-6755-4f6c-815c-32841da59b3b"
+  ]
 }
