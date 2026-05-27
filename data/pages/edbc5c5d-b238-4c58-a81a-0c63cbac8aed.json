@@ -13,6 +13,7 @@
       "type": "paragraph",
       "children": [
         {
+          "textSize": "heading-one",
           "text": ""
         }
       ]
@@ -21,7 +22,24 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This episode aired on July 17, 1993, and was hosted by Maria Hinojosa. The episode was produced at KUT in Austin, Texas. Also produced by Radio Ondas Training Project interns of the National Association of Hispanic Journalists\n"
+          "text": "Date range: July 11, 1993 - July 17, 1993",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The episode was produced in partnership with Radio Ondas Training Project interns of the National Association of Hispanic Journalists\n"
         }
       ]
     },
@@ -232,7 +250,7 @@
   "created_by": "amtellez16",
   "title": "Latino USA Episode 11",
   "slug": "latino-usa-episode-11",
-  "updated_at": "2026-05-16T20:41:52.807Z",
+  "updated_at": "2026-05-27T19:16:55.506Z",
   "updated_by": "amtellez16",
   "autogenerate": {
     "enabled": false,
