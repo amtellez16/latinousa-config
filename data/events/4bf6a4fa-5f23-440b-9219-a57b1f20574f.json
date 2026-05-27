@@ -4,7 +4,7 @@
       "label": "Latino USA 03",
       "is_offline": false,
       "file_type": "Audio",
-      "file_url": "https://archive.org/download/latino-usa-epiosde-03_202604/Latino%20USA%20Epiosde%2003.mp3",
+      "file_url": "https://utexas.box.com/shared/static/y6gpolpyvwuwm8fxkx2etd5axinju31u.mp3",
       "duration": 1743
     }
   },
@@ -12,6 +12,9 @@
   "label": "Latino USA Episode 03",
   "created_at": "2026-04-27T14:35:30.241Z",
   "created_by": "amtellez16",
-  "updated_at": "2026-04-27T14:35:30.241Z",
-  "updated_by": "amtellez16"
+  "updated_at": "2026-05-27T20:50:56.479Z",
+  "updated_by": "amtellez16",
+  "av_file_order": [
+    "4679caf1-9d86-4e5d-9adc-ce2d32dc021d"
+  ]
 }
