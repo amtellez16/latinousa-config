@@ -205,11 +205,12 @@
   "created_by": "amtellez16",
   "title": "Latino USA Episode 17",
   "slug": "latino-usa-episode-17",
-  "updated_at": "2026-05-27T19:27:50.638Z",
+  "updated_at": "2026-06-03T17:59:01.342Z",
   "updated_by": "amtellez16",
   "autogenerate": {
     "enabled": false,
     "type": "event",
     "type_id": "077d2b9f-078d-4a12-8243-48967e6af8cd"
-  }
+  },
+  "parent": "72eadee0-8fd7-47ac-9586-8a4ed0e89a9c"
 }
