@@ -240,11 +240,12 @@
   "created_by": "amtellez16",
   "title": "Latino USA Episode 28",
   "slug": "latino-usa-episode-28",
-  "updated_at": "2026-05-27T19:56:09.149Z",
+  "updated_at": "2026-06-03T17:56:02.150Z",
   "updated_by": "amtellez16",
   "autogenerate": {
     "enabled": false,
     "type": "event",
     "type_id": "248cdadc-eaa2-47e0-91a8-b064731231c0"
-  }
+  },
+  "parent": "72eadee0-8fd7-47ac-9586-8a4ed0e89a9c"
 }
