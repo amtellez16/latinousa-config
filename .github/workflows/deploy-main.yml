@@ -78,12 +78,36 @@ jobs:
         working-directory: "./client"
         run: npm run build
 
+      - name: Check dist size
+        if: ${{ env.project_publish_publish_pages_app == 'true' }}
+        run: |
+          echo "Dist folder size:"
+          du -sh ./client/dist/
+          echo "File count:"
+          find ./client/dist/ -type f | wc -l
+
+      - name: Create tar artifact (silent)
+        if: ${{ env.project_publish_publish_pages_app == 'true' }}
+        timeout-minutes: 10
+        run: |
+          tar \
+            --dereference --hard-dereference \
+            --directory "./client/dist/" \
+            -cf "$RUNNER_TEMP/artifact.tar" \
+            --exclude=.git \
+            --exclude=.github \
+            .
+          echo "Tar size: $(du -sh $RUNNER_TEMP/artifact.tar)"
+
       - name: Upload Pages Artifact
         if: ${{ env.project_publish_publish_pages_app == 'true' }}
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-artifact@v4
         timeout-minutes: 10
         with:
-          path: "./client/dist/"
+          name: github-pages
+          path: ${{ runner.temp }}/artifact.tar
+          retention-days: 1
+          if-no-files-found: error
 
       - name: Deploy to GitHub Pages
         if: ${{ env.project_publish_publish_pages_app == 'true' }}
