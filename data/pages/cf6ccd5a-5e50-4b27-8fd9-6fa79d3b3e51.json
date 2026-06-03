@@ -174,11 +174,12 @@
   "created_by": "amtellez16",
   "title": "Latino USA Episode 09",
   "slug": "latino-usa-episode-09",
-  "updated_at": "2026-05-27T19:13:07.088Z",
+  "updated_at": "2026-06-03T17:52:51.419Z",
   "updated_by": "amtellez16",
   "autogenerate": {
     "enabled": false,
     "type": "event",
     "type_id": "76f8e0bb-e873-494b-bcbd-3a58f66125bc"
-  }
+  },
+  "parent": "72eadee0-8fd7-47ac-9586-8a4ed0e89a9c"
 }
