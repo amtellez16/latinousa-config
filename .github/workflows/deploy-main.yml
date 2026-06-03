@@ -67,10 +67,23 @@ jobs:
       - name: Generate manifest
         run: npx tsx ./client/generate-iiif-3-manifests.ts -d './data' -u "https://${{ github.repository_owner }}.github.io/${{ env.project_project_slug}}" -s 'false'
 
-      - name: Build Astro Client
-        uses: withastro/action@v4
+      - name: Setup Node
+        uses: actions/setup-node@v4
         with:
-          path: "./client"
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: "./client/package-lock.json"
+
+      - name: Build Astro Client
+        working-directory: "./client"
+        run: npm run build
+
+      - name: Upload Pages Artifact
+        if: ${{ env.project_publish_publish_pages_app == 'true' }}
+        uses: actions/upload-pages-artifact@v3
+        timeout-minutes: 10
+        with:
+          path: "./client/dist/"
 
       - name: Deploy to GitHub Pages
         if: ${{ env.project_publish_publish_pages_app == 'true' }}
