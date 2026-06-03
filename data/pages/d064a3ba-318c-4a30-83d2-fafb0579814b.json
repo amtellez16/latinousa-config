@@ -224,11 +224,12 @@
   "created_by": "amtellez16",
   "title": "Latino USA Episode 35",
   "slug": "latino-usa-episode-35",
-  "updated_at": "2026-05-27T20:05:16.267Z",
+  "updated_at": "2026-06-03T17:53:21.504Z",
   "updated_by": "amtellez16",
   "autogenerate": {
     "enabled": false,
     "type": "event",
     "type_id": "f5bef20d-e631-4c90-91fa-11fd02f62d3f"
-  }
+  },
+  "parent": "72eadee0-8fd7-47ac-9586-8a4ed0e89a9c"
 }
