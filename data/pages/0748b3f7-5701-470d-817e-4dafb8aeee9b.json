@@ -198,11 +198,12 @@
   "created_by": "amtellez16",
   "title": "Latino USA Episode 16",
   "slug": "latino-usa-episode-16",
-  "updated_at": "2026-05-27T19:25:40.455Z",
+  "updated_at": "2026-06-03T17:59:16.624Z",
   "updated_by": "amtellez16",
   "autogenerate": {
     "enabled": false,
     "type": "event",
     "type_id": "71091323-bd19-4dde-9531-e1d5011a1cab"
-  }
+  },
+  "parent": "72eadee0-8fd7-47ac-9586-8a4ed0e89a9c"
 }
