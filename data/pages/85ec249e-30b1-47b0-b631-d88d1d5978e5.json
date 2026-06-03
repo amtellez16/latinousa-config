@@ -264,11 +264,12 @@
   "created_by": "amtellez16",
   "title": "Latino USA Episode 12",
   "slug": "latino-usa-episode-12",
-  "updated_at": "2026-05-27T19:19:24.855Z",
+  "updated_at": "2026-06-03T18:00:59.479Z",
   "updated_by": "amtellez16",
   "autogenerate": {
     "enabled": false,
     "type": "event",
     "type_id": "db0c6f94-53bb-4ea0-89ce-80177dddd5c4"
-  }
+  },
+  "parent": "72eadee0-8fd7-47ac-9586-8a4ed0e89a9c"
 }
