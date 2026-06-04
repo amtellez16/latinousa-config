@@ -74,14 +74,19 @@ jobs:
           cache: npm
           cache-dependency-path: "./client/package-lock.json"
 
+      - name: Compute build cache key
+        id: cache-key
+        run: |
+          DATA_HASH=$(find ./data -type f | sort | xargs sha256sum | sha256sum | cut -d' ' -f1)
+          CLIENT_HASH=$(find ./client/src ./client/astro.config.mjs ./client/dynamic-astro-config.js ./client/package-lock.json -type f 2>/dev/null | sort | xargs sha256sum | sha256sum | cut -d' ' -f1)
+          echo "key=astro-dist-${DATA_HASH}-${CLIENT_HASH}" >> $GITHUB_OUTPUT
+
       - name: Restore Astro build cache
         id: astro-cache
         uses: actions/cache@v4
         with:
           path: ./client/dist
-          key: astro-dist-${{ hashFiles('data/**', 'client/src/**', 'client/package-lock.json', 'client/astro.config.mjs', 'client/dynamic-astro-config.js') }}
-          restore-keys: |
-            astro-dist-
+          key: ${{ steps.cache-key.outputs.key }}
 
       - name: Build Astro Client
         if: steps.astro-cache.outputs.cache-hit != 'true'
