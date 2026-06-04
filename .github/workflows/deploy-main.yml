@@ -91,7 +91,19 @@ jobs:
       - name: Build Astro Client
         if: steps.astro-cache.outputs.cache-hit != 'true'
         working-directory: "./client"
-        run: npm run build
+        timeout-minutes: 60
+        run: |
+          # Run build in a new session to isolate its process group
+          setsid npm run build &
+          BUILD_PID=$!
+          # Wait for the npm build process to exit
+          wait $BUILD_PID
+          BUILD_EXIT=$?
+          # Kill the entire process group spawned by setsid to clean up worker threads
+          kill -TERM -$BUILD_PID 2>/dev/null || true
+          sleep 3
+          kill -KILL -$BUILD_PID 2>/dev/null || true
+          exit $BUILD_EXIT
 
       - name: Check dist size
         if: ${{ env.project_publish_publish_pages_app == 'true' }}
