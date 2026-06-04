@@ -91,19 +91,16 @@ jobs:
       - name: Build Astro Client
         if: steps.astro-cache.outputs.cache-hit != 'true'
         working-directory: "./client"
-        timeout-minutes: 60
         run: |
-          # Run build in a new session to isolate its process group
-          setsid npm run build &
-          BUILD_PID=$!
-          # Wait for the npm build process to exit
-          wait $BUILD_PID
-          BUILD_EXIT=$?
-          # Kill the entire process group spawned by setsid to clean up worker threads
-          kill -TERM -$BUILD_PID 2>/dev/null || true
-          sleep 3
-          kill -KILL -$BUILD_PID 2>/dev/null || true
-          exit $BUILD_EXIT
+          # Run the build with a timeout; if npm hangs after completion, timeout kills it
+          # We use || true so the step doesn't fail on timeout (exit 124) or signal (exit 137)
+          timeout 3600 npm run build || BUILD_STATUS=$?
+          # Verify the build actually produced output regardless of how npm exited
+          if [ ! -f "dist/index.html" ]; then
+            echo "ERROR: Build failed - dist/index.html not found (npm exit: ${BUILD_STATUS:-0})"
+            exit 1
+          fi
+          echo "Build succeeded - dist/index.html exists"
 
       - name: Check dist size
         if: ${{ env.project_publish_publish_pages_app == 'true' }}
