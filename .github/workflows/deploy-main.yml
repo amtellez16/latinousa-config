@@ -92,35 +92,33 @@ jobs:
         if: steps.astro-cache.outputs.cache-hit != 'true'
         working-directory: "./client"
         run: |
-          # Stream build output to both console and a log file
+          # Run the build, streaming output to both console and log file
           npm run build 2>&1 | tee /tmp/astro-build.log &
           PIPE_PID=$!
-          # Poll the log file until Astro prints its completion message
+          # Poll until dist/index.html exists (the final page built by Astro)
+          # This is more reliable than matching log text
           while true; do
-            if grep -q "Completed in" /tmp/astro-build.log 2>/dev/null; then
-              echo "Astro build completed - killing npm process group..."
-              # Give it 2 extra seconds to flush any final output
+            if [ -f "dist/index.html" ]; then
+              echo "dist/index.html found - build complete, killing npm..."
               sleep 2
-              # Kill all npm/node processes started by this step
               pkill -KILL -f "astro build" 2>/dev/null || true
               pkill -KILL -f "npm run build" 2>/dev/null || true
-              # Kill the tee pipeline
               kill $PIPE_PID 2>/dev/null || true
               break
             fi
-            # Check if build failed (npm exited without completing)
+            # Check if the build process exited on its own (success or failure)
             if ! kill -0 $PIPE_PID 2>/dev/null; then
-              echo "Build process exited"
+              echo "Build process exited on its own"
               break
             fi
             sleep 5
           done
-          # Verify the build actually produced output
+          # Final check
           if [ ! -f "dist/index.html" ]; then
             echo "ERROR: Build failed - dist/index.html not found"
             exit 1
           fi
-          echo "Build succeeded - dist/index.html exists"
+          echo "Build succeeded"
 
       - name: Check dist size
         if: ${{ env.project_publish_publish_pages_app == 'true' }}
