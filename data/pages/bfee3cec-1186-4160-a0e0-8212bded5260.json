@@ -4,23 +4,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Latino USA - Episode 6",
-          "textSize": "heading-one"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": "Date range: June 6, 1993 - June 12, 1993",
           "bold": true
         }
@@ -174,7 +157,7 @@
   "created_by": "amtellez16",
   "title": "Latino USA Episode 06",
   "slug": "latino-usa-episode-06",
-  "updated_at": "2026-06-03T17:51:14.634Z",
+  "updated_at": "2026-06-14T19:29:25.902Z",
   "updated_by": "amtellez16",
   "autogenerate": {
     "enabled": false,
