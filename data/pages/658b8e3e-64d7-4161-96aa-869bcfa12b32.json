@@ -4,24 +4,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Latino USA - Episode 31",
-          "textSize": "heading-one"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "textSize": "heading-one",
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": "Date range: November 28, 1993 - December 4, 1993",
           "textSize": "heading-four"
         }
@@ -214,7 +196,7 @@
   "created_by": "amtellez16",
   "title": "Latino USA Episode 31",
   "slug": "latino-usa-episode-31",
-  "updated_at": "2026-06-03T17:55:15.441Z",
+  "updated_at": "2026-06-14T19:51:13.378Z",
   "updated_by": "amtellez16",
   "autogenerate": {
     "enabled": false,
