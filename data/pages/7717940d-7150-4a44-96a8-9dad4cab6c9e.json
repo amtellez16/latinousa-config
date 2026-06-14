@@ -4,23 +4,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Latino USA - Episode 34",
-          "textSize": "heading-one"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": "Date range: December 19, 1993 - December 25, 1993",
           "textSize": "heading-four"
         }
@@ -265,7 +248,7 @@
   "created_by": "amtellez16",
   "title": "Latino USA Episode 34",
   "slug": "latino-usa-episode-34",
-  "updated_at": "2026-06-03T17:53:33.923Z",
+  "updated_at": "2026-06-14T19:53:23.778Z",
   "updated_by": "amtellez16",
   "autogenerate": {
     "enabled": false,
