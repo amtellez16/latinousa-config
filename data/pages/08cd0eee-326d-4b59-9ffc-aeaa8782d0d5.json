@@ -4,25 +4,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Latino USA - Episode 25",
-          "textSize": "heading-one"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "textSize": "heading-one",
-          "text": "",
-          "bold": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": "Date range: October 17, 1993 - October 23, 1993",
           "bold": true
         }
@@ -233,7 +214,7 @@
   "created_by": "amtellez16",
   "title": "Latino USA Episode 25",
   "slug": "latino-usa-episode-25",
-  "updated_at": "2026-06-03T17:56:44.609Z",
+  "updated_at": "2026-06-14T19:46:31.790Z",
   "updated_by": "amtellez16",
   "autogenerate": {
     "enabled": false,
