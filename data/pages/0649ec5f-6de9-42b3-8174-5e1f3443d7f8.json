@@ -4,29 +4,11 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Annotations",
-          "textSize": "heading-one"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "textSize": "heading-one",
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": "The first year of the Latino USA radio program offers a wide range of information about the Latino/a experience in 1993. "
         },
         {
           "text": "Annotations",
-          "link": "https://amtellez16.github.io/latinousa-config/tags/"
+          "link": "https://llilasbenson.github.io/latinousa/tags/"
         },
         {
           "text": " were created to highlight major subjects and the various voices involved in producing the radio show. In the programs included throughout this project, annotations were created regarding Speakers/Referenced People, Places, Subjects, Organizations, Communities, Journalistic Approaches, Sound Clips, Works Cited, and Referenced Dates. A total of 1,978 unique tags were created across 35 episodes of Latino USA across the following categories: "
@@ -39,7 +21,7 @@
         {
           "text": "Speakers/Referenced People",
           "textSize": "heading-three",
-          "link": "https://amtellez16.github.io/latinousa-config/tags/detail/people/"
+          "link": "https://llilasbenson.github.io/latinousa/tags/detail/people/"
         }
       ]
     },
@@ -57,7 +39,7 @@
         {
           "text": "Places",
           "textSize": "heading-three",
-          "link": "https://amtellez16.github.io/latinousa-config/tags/detail/places/"
+          "link": "https://llilasbenson.github.io/latinousa/tags/detail/places/"
         }
       ]
     },
@@ -75,7 +57,7 @@
         {
           "text": "Subject Headings",
           "textSize": "heading-three",
-          "link": "https://amtellez16.github.io/latinousa-config/tags/detail/subject-headings/"
+          "link": "https://llilasbenson.github.io/latinousa/tags/detail/subject-headings/"
         }
       ]
     },
@@ -93,7 +75,7 @@
         {
           "text": "Organizations",
           "textSize": "heading-three",
-          "link": "https://amtellez16.github.io/latinousa-config/tags/detail/organizations/"
+          "link": "https://llilasbenson.github.io/latinousa/tags/detail/organizations/"
         }
       ]
     },
@@ -111,7 +93,7 @@
         {
           "text": "Communities",
           "textSize": "heading-three",
-          "link": "https://amtellez16.github.io/latinousa-config/tags/detail/communities/"
+          "link": "https://llilasbenson.github.io/latinousa/tags/detail/communities/"
         }
       ]
     },
@@ -129,7 +111,7 @@
         {
           "text": "Journalistic Approaches",
           "textSize": "heading-three",
-          "link": "https://amtellez16.github.io/latinousa-config/tags/detail/journalistic-approaches/"
+          "link": "https://llilasbenson.github.io/latinousa/tags/detail/journalistic-approaches/"
         }
       ]
     },
@@ -205,7 +187,7 @@
         {
           "text": "Sound clips",
           "textSize": "heading-three",
-          "link": "https://amtellez16.github.io/latinousa-config/tags/detail/sounds/"
+          "link": "https://llilasbenson.github.io/latinousa/tags/detail/sounds/"
         }
       ]
     },
@@ -265,7 +247,7 @@
         {
           "text": "Works Cited",
           "textSize": "heading-three",
-          "link": "https://amtellez16.github.io/latinousa-config/tags/detail/works-cited/"
+          "link": "https://llilasbenson.github.io/latinousa/tags/detail/works-cited/"
         }
       ]
     },
@@ -283,7 +265,7 @@
         {
           "text": "Referenced Dates",
           "textSize": "heading-three",
-          "link": "https://amtellez16.github.io/latinousa-config/tags/detail/dates/"
+          "link": "https://llilasbenson.github.io/latinousa/tags/detail/dates/"
         }
       ]
     },
@@ -320,7 +302,7 @@
   "slug": "annotations",
   "created_at": "2026-06-02T21:59:31.807Z",
   "created_by": "amtellez16",
-  "updated_at": "2026-06-02T21:59:58.043Z",
+  "updated_at": "2026-06-14T19:58:33.174Z",
   "updated_by": "amtellez16",
   "parent": "937afc79-99bb-4e2b-a6a1-775179ed745a"
 }
