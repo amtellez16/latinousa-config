@@ -4,24 +4,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Latino USA - Episode 11",
-          "textSize": "heading-one"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "textSize": "heading-one",
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": "Date range: July 11, 1993 - July 17, 1993",
           "bold": true
         }
@@ -250,7 +232,7 @@
   "created_by": "amtellez16",
   "title": "Latino USA Episode 11",
   "slug": "latino-usa-episode-11",
-  "updated_at": "2026-06-03T18:01:11.196Z",
+  "updated_at": "2026-06-14T19:37:24.862Z",
   "updated_by": "amtellez16",
   "autogenerate": {
     "enabled": false,
